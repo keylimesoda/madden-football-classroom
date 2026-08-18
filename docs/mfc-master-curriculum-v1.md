@@ -44,15 +44,19 @@ Most modern rosters do not carry a traditional fullback. In Madden formations th
 
 *Manuscript not written yet.*
 
-This section will build from personnel into alignment and offensive geometry:
+#### The offensive core
 
-- the five-man offensive-line core;
-- attached tight end, strong side, and weak side;
-- under center, pistol, and shotgun;
-- backfield structures: offset back, fullback, H-back, lead blocker, split flow;
-- receiver distribution: 2×2/Doubles, 3×1/Trips, 4×1/Quads, 3×2/2×3 empty;
-- alignment modifiers: bunch, stack, condensed, wide split, nub, and empty;
-- shifts and formation movement as a preview of later advanced concepts.
+- Center, guards, tackles, and the five-man line as the spine of the offense.
+- Attached tight end, strong side, weak side, and the extra edge a TE creates.
+- Under center, pistol, and shotgun: exchange, vision, drop depth, and play-action implications.
+- Backfield structures: offset back, fullback, H-back, lead blocker, split flow, and detached back.
+
+#### Receiver distribution and alignment
+
+- 2×2/Doubles, 3×1/Trips, 4×1/Quads, 3×2/2×3 empty.
+- Bunch, stack, condensed split, wide split, nub, and empty.
+- How formation strength, surface count, and receiver distribution change route options, run strength, coverage checks, and defensive communication.
+- Shifts and formation movement as a preview of Chapter 4.
 
 **Canonical tutorial baseline:** **Gun 11 · 2×2 · Y attached right · RB offset** — X and slot left; attached TE/Y and Z right; RB beside the QB.
 
@@ -74,14 +78,19 @@ Topics to develop:
 
 *Manuscript not written yet.*
 
-Topics to develop:
+#### Front and box families
 
-- even and odd fronts;
-- over and under front structure;
-- 4-2-5 nickel as the initial reference look;
-- tite/odd, 3-3-5, dime, and specialty looks as later variations;
-- defensive alignment to strength, 2×2, Trips, bunch, motion, and empty;
-- pre-snap presentation versus post-snap responsibility.
+- Even and odd fronts.
+- Over and under front structure.
+- 4-2-5 nickel as the initial reference look.
+- Tite/odd, 3-3-5, dime, and specialty looks as later variations.
+
+#### Formation adjustments
+
+- Alignment to TE strength, 2×2, Trips, bunch, stack, motion, and empty.
+- Front, box, perimeter, and deep layers.
+- Pre-snap presentation versus post-snap responsibility.
+- How a defense can show one structure and rotate into another after the snap.
 
 ---
 
@@ -100,17 +109,32 @@ Madden run naming and football principles:
 - outside zone;
 - pitch/toss.
 
-Each run family needs: aiming point, blocking story, tight-end/fullback/H-back/puller role, first unblocked or read defender, defensive answer, and a Madden Practice Mode lab.
+### Run families
+
+- Blast and dive: downhill, fast-hitting interior runs.
+- Power and counter: pullers, kick-out blocks, wrap blocks, and misdirection.
+- Inside zone: double teams, front-side movement, cutback lane, and the runner’s read.
+- Outside zone/stretch: reach blocks, edge leverage, one-cut decisions, and backside pursuit.
+- Pitch/toss: perimeter timing, force player, crack/contain problems, and ball-security risk.
+
+Each run family needs: Madden name/playbook label, aiming point, blocking story, TE/fullback/H-back/puller role, first unblocked or read defender, defensive answer, and a Madden Practice Mode lab.
 
 ## 2(b) Defense
 
 *Manuscript not written yet.*
 
-- gaps;
-- even, odd, over, and under fronts;
-- run fits;
-- spill, box, force, and contain;
-- pre-snap run-picture review: front, box, safety depth, overhang/nickel, force player.
+### Front and gap structure
+
+- Gaps: A, B, C, D, and how formations create or remove an edge.
+- Even, odd, over, and under fronts.
+- Down linemen, linebackers, overhangs, nickel, and safety insertion.
+
+### Fits and containment
+
+- Run fits from the front through the second level.
+- Spill, box, force, and contain.
+- Cutback player, backside pursuit, scrape/exchange, and safety support.
+- Pre-snap run-picture review: front, box, safety depth, overhang/nickel, force player.
 
 **Sidebar:** Untarget defender — the defender the offense intentionally leaves for the runner or read to make wrong, versus a genuinely missed blocking assignment.
 
@@ -138,39 +162,56 @@ This is not “this run beats that front.” It is the first answer-and-counter 
 
 ### Protection and pre-snap answers
 
-- base, slide, half-slide, and full-slide concepts where Madden exposes them;
-- ID Mike;
-- keeping the RB or TE in, chip/release, check-and-release, max protect;
-- motion to change an edge or protection count;
-- quick-game and hot-route answers to pressure;
-- tradeoffs: every protection answer changes the route concept or timing.
+#### Identify the pressure picture
+
+- Front count, walked-up defenders, mug looks, overloads, potential green-dog/blitz additions, and escape lanes.
+- ID Mike: what the call is trying to declare, what it changes, and what it does not guarantee.
+
+#### Protection tools and tradeoffs
+
+- Base, slide, half-slide, and full-slide concepts where Madden exposes them.
+- Keep the RB or TE in; chip/release; check-and-release; max protect.
+- Motion to change an edge or protection count.
+- Quick-game and hot-route answers to pressure.
+- Tradeoffs: every protection answer changes the route concept, release count, timing, or escape plan.
 
 ### Route families
 
-- vertical/streak/go, fade, seam;
-- slant, flat, out, curl, comeback, dig, post, corner, wheel;
-- shallow and deep crossers, drag, whip/pivot, option routes;
-- WR, RB, TE, tunnel, bubble, and slip screens;
-- route availability by Madden position/player archetype.
+#### Vertical and intermediate routes
+
+- Streak/go, fade, seam, post, corner, dig/in, comeback, curl, hitch, out, and speed out.
+
+#### Quick and underneath routes
+
+- Slant, flat, drag, shallow cross, whip/pivot, return route, option route, angle/Texas, and wheel.
+
+#### Screens and special releases
+
+- WR, RB, TE, tunnel, bubble, and slip screens.
+- Switch releases, reduced splits, stack/bunch releases, and route stems.
+
+#### Player access
+
+- Route availability by Madden position and player archetype.
+- What changes when a TE, RB, or receiver is asked to run a route outside that player’s normal skill set.
 
 **Sidebar:** Pre-snap route adjustments — which players can make which changes, how hot routes alter spacing/protection/timing, and why an available route is not automatically a compatible route.
 
 ### Route concepts
 
-- Smash;
-- switch;
-- Mesh;
-- curl/flat;
-- flood/sail;
-- stick;
-- spacing;
-- drive;
-- dagger;
-- Yankee;
-- Mills/post-dig;
-- four verticals;
-- levels;
-- shallow-cross families.
+#### Quick-game and spacing concepts
+
+- Stick, spacing, curl/flat, smash, and quick screens.
+
+#### Horizontal and cross-field concepts
+
+- Mesh, shallow-cross families, drive, and levels.
+
+#### Three-level and vertical concepts
+
+- Flood/sail, dagger, Yankee, Mills/post-dig, four verticals, and switch concepts.
+
+For every concept: formation context, route diagram, defender conflict, quarterback progression, man/zone/match answer, pressure weakness, counter, and Madden lab.
 
 Use real football terminology as the primary taxonomy; use Madden’s in-game categories as tags and play-finding aids.
 
@@ -180,12 +221,14 @@ Use real football terminology as the primary taxonomy; use Madden’s in-game ca
 
 ### Pass rush
 
-- four-man rush;
-- stunts/twists;
-- mug looks;
-- zone blitz;
-- simulated pressure/creepers when Madden behavior supports it;
-- rush lanes, escape lanes, and pressure’s effect on timing.
+#### Rush structure
+
+- Four-man rush, five-man pressure, simulated pressure/creepers where Madden behavior supports it.
+- Stunts/twists, mug looks, zone blitz, overloads, and replacement rushers.
+
+#### Pocket control
+
+- Rush lanes, escape lanes, pressure’s effect on timing, and the relationship between rush plan and coverage call.
 
 **Sidebar:** A man defender whose assignment stays in to block or does not release may become an extra rusher. Verify the exact Madden behavior before publishing.
 
@@ -193,12 +236,20 @@ Use real football terminology as the primary taxonomy; use Madden’s in-game ca
 
 ### Coverage
 
-- man, zone, and match as defender behavior;
-- flat, squat flat, cloud flat, curl-flat, hook-curl;
-- deep third, deep half, deep quarter;
-- Cover 0, Cover 1, Cover 2, Cover 3, Cover 4, Cover 6, Cover 9;
-- split-field and rotating presentations;
-- safety tracking: pre-snap presentation → post-snap rotation → route distribution.
+#### Coverage families
+
+- Man, zone, and match as defender behavior—not only play-call labels.
+
+#### Underneath and deep responsibilities
+
+- Flat, squat flat, cloud flat, curl-flat, hook-curl, seam/hook variants.
+- Deep third, deep half, and deep quarter.
+
+#### Shells and coverage structures
+
+- Cover 0, Cover 1, Cover 2, Cover 3, Cover 4/quarters, Cover 6, Cover 9.
+- Split-field and rotating presentations.
+- Safety tracking: pre-snap presentation → post-snap rotation → route distribution.
 
 **Sidebar:** Pre-snap adjustments — press/off, shade/leverage, alignment, safety/nickel adjustments, and the tradeoff each creates.
 
@@ -209,13 +260,14 @@ Use real football terminology as the primary taxonomy; use Madden’s in-game ca
 Route concept × coverage structure:
 
 - formation/distribution;
+- personnel and formation version;
 - protection and time requirement;
 - primary defender conflict;
 - man, zone, and match response;
 - pre-snap clue and post-snap confirmation;
-- quarterback progression;
+- quarterback progression and safe answer;
 - defensive counter;
-- offensive counter;
+- offensive counter and counter-counter;
 - Madden version caveat.
 
 The eventual matrix must teach the counter, not become a “beat this coverage” cheat sheet.
@@ -259,6 +311,12 @@ The eventual matrix must teach the counter, not become a “beat this coverage�
 ## 5(a) Offensive Scheme Development
 
 *Outline only; substantial sub-items to develop.*
+
+### Scheme identity and personnel plan
+
+- Choose core personnel groups and a home formation family.
+- Decide which formations are the stable home base, which are changeups, and which are situational tools.
+- Define the first run, first pass, and first protection answers the scheme wants to execute well.
 
 ### Same concept, different looks
 
@@ -307,8 +365,15 @@ Organize calls by relationship, not just formation-menu location:
 - audible trigger and answer;
 - personnel/formation versions;
 - protection and timing requirement;
+- down, distance, field position, clock, and score context;
 - game situation;
 - Madden version and playbook availability.
+
+### Self-scout and tendency management
+
+- What does the opponent know you like to call from each formation, down, and distance?
+- How do motion, tendency breakers, formation complements, and counters protect the core punch without abandoning it?
+- How do you review a game: identify execution failure, bad call, predictable tendency, or opponent adjustment?
 
 The player should be able to say, “They are overplaying my run,” and know the next two calls before opening the playbook.
 
