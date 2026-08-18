@@ -30,10 +30,11 @@ This prevents a common beginner failure: changing the offense and defense at the
 
 A learner earns the **Field Vision I** badge only when they can do all four tasks on an unfamiliar, static pre-snap look:
 
-1. Correctly name the visible shell as one-high or two-high.
-2. Count the defenders who can immediately affect the run, while explaining that the count only matters relative to the called run and available blockers.
-3. Describe the alignment of a relevant perimeter defender: off/press and inside/outside leverage.
-4. State a plan in this form:
+1. Correctly name the **pre-snap** shell as one-high or two-high, while explicitly saying it is an initial structure rather than the final coverage.
+2. Track the first post-snap movement of the safeties, corners, and flat defenders well enough to say whether the picture stayed intact, rotated, or remained unresolved.
+3. Count the defenders who can immediately affect the run, while explaining that the count only matters relative to the called run and available blockers.
+4. Describe the alignment of a relevant perimeter defender: off/press and inside/outside leverage.
+5. State a plan in this form:
 
 > “I see **[shell]**, **[box count / front clue]**, and **[leverage clue]**. I will check **[first answer]** after the snap. If **[post-snap evidence]** changes the picture, I will use **[safe answer]**.”
 
@@ -53,13 +54,14 @@ A correct answer is not a correct coverage guess. A learner passes by using the 
 
 The pre-snap picture is not a secret answer key. It is a set of clues that helps the quarterback choose what to inspect first after the snap.
 
-The learner should separate three levels of certainty:
+The learner should separate four levels of certainty:
 
-- **Visible fact:** “There are two deep safeties.”
-- **Useful inference:** “The defense may have less immediate help in the box than a one-high picture.”
+- **Visible fact:** “There are two deep safeties before the snap.”
+- **Useful inference:** “The defense is presenting a two-high shell, so I should inspect the box and expect that post-snap rotation may matter.”
+- **Post-snap evidence:** “The weak safety drove down; the middle closed; the corners and flat defenders now determine which family this is behaving like.”
 - **Unverified conclusion:** “This is definitely Cover 2.”
 
-The course trains the first two and explicitly prohibits jumping to the third.
+The course trains the first three and explicitly prohibits jumping from an initial shell to a coverage name. The object is not to make the learner timid; it is to make the learner precise about *when* the evidence becomes available.
 
 ## Concept sequence
 
@@ -116,6 +118,8 @@ Show the stable 11-personnel formation with no defensive labels. Ask learners to
 - **One-high:** one safety visibly positioned deep in the middle of the field.
 - **Two-high:** two safeties visibly positioned deep, splitting the field.
 - **Rotation:** safety movement after the snap that changes the initial picture.
+- **Middle open / middle closed:** a practical description of whether the deep middle is split by two deep safeties or protected by a single middle safety after the rotation begins.
+- **Coverage family:** the actual post-snap behavior of deep, corner, hook, and flat defenders—not a label guessed from the shell.
 
 ## Teaching sequence
 
@@ -127,7 +131,7 @@ The learner begins every shell read by looking deep, not at the line of scrimmag
 
 **Two-high picture:** two defenders are deep, each responsible for part of the deep field at the moment of the snap.
 
-The immediate goal is only to count deep safeties. Do not ask the learner to identify Cover 1, Cover 2, Cover 3, Cover 4, quarters, palms, or match coverage yet.
+The immediate goal is only to count deep safeties and record the initial structure. Do not ask the learner to identify Cover 1, Cover 2, Cover 3, Cover 4, quarters, palms, or match coverage from that first frame. Those structures can share the same presentation and can rotate after the ball moves.
 
 ### 2. Learn what shell changes
 
@@ -138,16 +142,24 @@ A shell does not tell the learner the final coverage. It changes the *next quest
 | Two-high | “How many defenders are near the line, and is there space underneath?” | “It is definitely Cover 2.” |
 | One-high | “Where is the extra near-line defender, and how are the corners aligned?” | “It is definitely Cover 3 or man.” |
 
-### 3. Confirm with motion after the snap
+### 3. Confirm with motion after the snap — the coverage picture is a sequence
 
-Safety movement is evidence. In replay, learners should look for these possibilities:
+Safety movement is evidence, but it is not sufficient evidence by itself. Modern defenses deliberately borrow each other’s pre-snap pictures.
 
-- a safety stays deep;
-- a safety drives down into the box;
-- two safeties become one deep middle safety;
-- one deep safety is joined by a late rotating safety.
+In replay, learners should take **three snapshots**:
 
-The learner need not diagnose every coverage. They only need to notice whether the original picture held or changed.
+1. **Before the snap:** How many safeties are visibly deep? Where are the corners?
+2. **At the safety decision:** Which safety stays deep, drives down, or crosses the formation? Does the middle become open or closed?
+3. **At the route conflict:** What do the corners and flat defenders do? Does the corner squat, sink, carry vertically, or pass work to another defender?
+
+This sequence introduces the actual problem:
+
+- A **two-high presentation can rotate to a middle-closed/Cover 3-like picture** when a safety drives down and the other becomes the deep middle player.
+- A **two-high presentation does not distinguish Cover 2 from quarters/Cover 4**. Both can begin with two safeties deep. The learner must watch the corner and flat behavior after the snap.
+- A **quarters/Cover 4 structure can look deceptively Cover-2-like** to a beginner because both safeties begin high and both corners may initially appear to protect outside space. The distinction emerges in vertical distribution, corner technique, and flat responsibility—not the first safety count.
+- A defense may present one-high and rotate toward a two-high or split-field result. The learner should say “the picture changed” before they try to name the change.
+
+At this stage, the learner need not diagnose every coverage family. They must reliably notice whether the initial shell held, spun, or produced an unresolved mixed picture.
 
 ## Worked example
 
@@ -155,13 +167,13 @@ The learner need not diagnose every coverage. They only need to notice whether t
 
 **Good statement:**
 
-> “Two-high shell. My next question is the box count. I will watch whether either safety rotates after the snap.”
+> “Two-high shell. My next question is the box count. After the snap, I will track whether a safety spins down, whether the middle closes, and how the corner/flat defenders react before I treat this as a coverage family.”
 
 **Bad statement:**
 
 > “Cover 2. I will force a streak.”
 
-Why the bad statement fails: two safeties can belong to multiple coverages and can rotate. A streak may be a bad answer depending on leverage, route combination, pressure, and post-snap movement.
+Why the bad statement fails: two safeties can belong to multiple coverage families and can rotate. Even when the safeties remain high, Cover 2 and quarters/Cover 4 create different answers through corner, flat, and vertical-match behavior. A streak may be a bad answer depending on leverage, route combination, pressure, and post-snap movement.
 
 ## Madden Practice Mode lab
 
@@ -169,14 +181,120 @@ Why the bad statement fails: two safeties can belong to multiple coverages and c
 2. Call the same offensive play repeatedly.
 3. Call or select defensive looks that show one-high, then two-high safety alignment.
 4. Before every snap, say only: “one-high” or “two-high.”
-5. After the snap, pause replay around one second.
-6. Record one sentence: “The shell started **[one/two high]** and then **[stayed/rotated]**.”
+5. Pause replay at three moments: pre-snap, the first safety movement, and the first route conflict.
+6. Record: “The shell started **[one/two high]**. The middle **[stayed open/closed/opened/closed late]**. The corner/flat reaction was **[brief description]**.”
+7. Only after recording those facts may the learner propose a coverage family—and must mark it **confirmed**, **likely**, or **unresolved**.
 
-**Success standard:** 8 of 10 shell identifications are correct before the snap; learner does not call a specific coverage without post-snap evidence.
+**Success standard:** 8 of 10 shell identifications are correct before the snap; learner correctly identifies rotation/no rotation in 7 of 10 reps; learner does not call a specific coverage without post-snap evidence.
 
 ## Unit assessment
 
-For four static images, identify the shell and write the next question. A learner must get at least 3 of 4 correct and use no coverage-certainty language.
+For four static images and four three-frame replay sequences, identify the shell, write the next question, and state whether the picture stayed, rotated, or remains unresolved. A learner must get at least 6 of 8 correct and use no coverage-certainty language from a single static frame.
+
+---
+
+# Unit 1B — Safety rotation and coverage families: Follow the picture, do not freeze it
+
+**Recommended time:** 12 minutes
+
+## Learner question
+
+> “If a shell can lie, what exactly am I watching after the snap?”
+
+## Why this is a separate unit
+
+This is the bridge between beginner shell recognition and actual modern coverage reading. It cannot be a warning box at the end of the shell lesson. If learners are taught “one high means X” and “two high means Y,” they will build the exact habit that disguised modern defenses punish.
+
+The discipline is **time-based**: do not identify coverage from a frozen pre-snap frame. Track the coverage picture through the first second of the play.
+
+## The three-frame method
+
+### Frame A — Presentation (before snap)
+
+Record only visible alignment:
+
+- one-high or two-high;
+- corner depth and leverage;
+- nickel/safety proximity to the box;
+- formation strength and receiver distribution.
+
+### Frame B — Rotation (ball snapped to early drop)
+
+Watch the safeties:
+
+- Does one safety become the deep middle player?
+- Does one safety drive into the box, hook, curl, or flat area?
+- Do both safeties retain split/deep leverage?
+- Does a late defender replace the safety or create a new split-field picture?
+
+The learner describes **middle open** or **middle closed** before trying to label a coverage.
+
+### Frame C — Distribution (routes begin to threaten)
+
+Watch the perimeter and underneath defenders:
+
+- Does the corner squat in the flat or sink under a vertical?
+- Does the corner carry the outside vertical route, pass it, or bail?
+- Who owns the flat?
+- Do defenders match receivers as they release, or settle into zone landmarks?
+
+This is where Cover 2-like and quarters/Cover 4-like behavior becomes distinguishable. A two-high snapshot alone cannot do it.
+
+## Essential contrast cases
+
+### Case A — Two-high to middle-closed / Cover 3-like rotation
+
+The defense presents two deep safeties. At the snap, one drives down; the other occupies the deep middle. The offense should update its model: the field is no longer simply a two-high picture.
+
+**Learner language:**
+
+> “Two-high presentation. The weak safety spun down and the middle closed. I need to re-check the underneath and outside picture rather than throw the answer I prepared for split safeties.”
+
+### Case B — Two-high Cover 2-like versus quarters/Cover 4-like behavior
+
+Both begin with two deep safeties. The crucial distinction is not the initial shell. It is what happens when receivers threaten vertically and into the flats.
+
+- In a Cover 2-like behavior, the corner may be more involved in the flat/short outside space while the safety handles deep half responsibility.
+- In a quarters/Cover 4-like behavior, corners and safeties can distribute vertical threats differently and may match based on releases.
+
+MFC should avoid teaching this as an absolute rule because game implementations, match rules, route distribution, and specific play calls can alter behavior. The learner’s first job is to observe the response, then connect that response to the concept family.
+
+### Case C — One-high presentation that changes after snap
+
+A middle-closed presentation can rotate, exchange responsibilities, or become a split-field look after the snap. The learner does not need a memorized label for every disguise. They need to keep the first answer conditional and watch the field change.
+
+## Madden Practice Mode lab
+
+1. Use the stable 11-personnel shotgun formation.
+2. Call a concept with an outside vertical, a flat route, and an inside route so the defensive distribution becomes visible.
+3. Run 10 reps against defenses that present two-high and 10 against defenses that present one-high.
+4. Save or pause at Frame A, B, and C for each rep.
+5. Complete this table in a notebook:
+
+| Rep | Frame A: presentation | Frame B: rotation | Frame C: corner/flat distribution | Conclusion |
+| --- | --- | --- | --- | --- |
+| 1 | Two high, off corner | Weak safety down; middle closed | Corner sinks; flat defender widens | Middle-closed rotation; first plan changed |
+
+6. Do not score the conclusion as a coverage-name quiz. Score whether the learner observed the sequence accurately.
+
+## Unit assessment
+
+Show four three-frame sequences:
+
+- two-high staying split;
+- two-high spinning to middle closed;
+- two-high with Cover 2-like perimeter behavior;
+- two-high with quarters/Cover 4-like vertical distribution.
+
+For each sequence, learner must state:
+
+1. the pre-snap presentation;
+2. the rotation;
+3. the observable corner/flat/deep distribution;
+4. which part of a pre-snap plan should change.
+
+**Passing standard:** 3 of 4 complete sequences accurately described. No requirement to name the exact coverage if the observed behavior is accurately stated.
+
 
 ---
 
@@ -454,6 +572,7 @@ Rubric:
 | --- | --- | --- | --- | --- |
 | 0. Orientation | pre-snap facts vs inferences | base offense | identify personnel and strength | describes 11 personnel correctly |
 | 1. Shells | safety depth | base offense, front | name one-high/two-high | does not overcall coverage |
+| 1B. Rotation | shell changes across time | base offense, shell | track safety + corner + flat behavior | describes the sequence without premature label |
 | 2. Box count | near-line defenders | base offense, shell | count and compare to run | explains why count alone is insufficient |
 | 3. Leverage | perimeter alignment | base offense, shell/box | name cushion/press and leverage | identifies a clue plus its risk |
 | 4. Scan | ordered decision routine | all prior vocabulary | make first/safe plan | revises plan from post-snap evidence |
@@ -465,10 +584,11 @@ Rubric:
 No page, diagram, or interactive component should be designed until the following are approved or answered:
 
 1. Does the progression above match the way Ric would teach a new Madden player?
-2. Is 11-personnel shotgun with TE strong right the right canonical baseline for the first course?
-3. Do the labs map cleanly to Madden NFL 27 Practice Mode and actual control surfaces?
-4. Which vocabulary needs a simpler MFC-specific phrase before we introduce formal football terminology?
-5. What examples from Ric’s Madden franchise culture would make the drills feel like real game decisions rather than coaching-clinic abstractions?
+2. Does Unit 1B capture the modern disguise problem accurately enough: two-high spinning to middle closed/Cover 3-like behavior; Cover 2-like versus quarters/Cover 4-like behavior requiring perimeter distribution evidence; and one-high presentations that change after snap?
+3. Is 11-personnel shotgun with TE strong right the right canonical baseline for the first course?
+4. Do the labs map cleanly to Madden NFL 27 Practice Mode and actual control surfaces?
+5. Which vocabulary needs a simpler MFC-specific phrase before we introduce formal football terminology?
+6. What examples from Ric’s Madden franchise culture would make the drills feel like real game decisions rather than coaching-clinic abstractions?
 
 ---
 
