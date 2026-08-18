@@ -1,0 +1,7 @@
+{
+  "id":"mfc-101-1","course":"MFC 101.1","title":"The Pre-Snap Scan","durationMinutes":6,
+  "learnerWin":"Before the snap, make a one-sentence plan from shell, box, leverage, and a safe answer.",
+  "labels":["Football concept","Madden 27 behavior"],
+  "lab":["Set the same offensive formation against a two-high shell and a one-high shell in Practice Mode.","Before each snap say: shell, box, leverage, plan.","Do not grade yourself by whether the play works. Grade the scan and decision."],
+  "sources":["EA Sports, Madden NFL 27 Gameplay Deep Dive — controls and adjustment context.","Huddle.gg, Madden 27 Playbooks — formation/playbook mapping reference."]
+}

@@ -1,0 +1,7 @@
+{
+  "id":"mfc-101-2","course":"MFC 101.2","title":"Shells: One High and Two High","durationMinutes":7,
+  "learnerWin":"Recognize the safety shell as an initial clue and wait for the post-snap rotation before declaring coverage.",
+  "labels":["Football concept","Madden 27 behavior"],
+  "lab":["Use Coach Vision or replay to compare a one-high and two-high pre-snap picture.","Call one run and one quick pass from the same formation.","Watch a safety rotate after the snap. Say what changed—not what you hoped the defense was."],
+  "sources":["EA Sports, Madden NFL 27 Gameplay Deep Dive.","EA Sports, Madden NFL 27 Controls Hub."]
+}
