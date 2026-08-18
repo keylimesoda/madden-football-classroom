@@ -11,10 +11,13 @@ MFC teaches football through the decisions a Madden player must make. The learne
 ## Guiding order
 
 1. Learn who is on the field and where they line up.
-2. Learn how offenses attack the run and how defenses fit it.
-3. Learn how offenses protect and build passing concepts.
-4. Learn how defenses rush, cover, disguise, and answer those concepts.
-5. Learn the matchup: which answers stress which structures, and what the counter looks like.
+2. Learn how offenses attack the run.
+3. Learn how defenses fit and contain the run.
+4. Learn the run matchup: what each run attacks and how the defense answers.
+5. Learn how offenses protect and build the pass game.
+6. Learn how defenses rush, cover, disguise, and answer the pass game.
+7. Learn the pass matchup: which concepts stress which coverages, and what the counter looks like.
+8. Add advanced offense only after the base run and pass game are clear.
 
 ---
 
@@ -64,9 +67,9 @@ MFC teaches football through the decisions a Madden player must make. The learne
 
 ---
 
-# Part II — The run game
+# Part II — Run: offense
 
-## 3. Offensive rushing
+## 2. Offensive rushing
 
 **Core question:** What is this run trying to do, where is it designed to hit, and which defender must be displaced, reached, kicked out, or made wrong?
 
@@ -107,7 +110,48 @@ For each run family, the eventual lesson needs:
 
 ---
 
-# Part III — The pass game
+# Part III — Run: defense
+
+## 3. Defensive rushing
+
+**Core question:** How does the defense account for every gap, set the edge, and keep the ball from escaping outside?
+
+### To be drafted by Ric
+
+- Even, odd, over, and under fronts.
+- Gaps, fits, spill/box/force language where appropriate.
+- Run fits from the front through the second level.
+- Contain and edge responsibility.
+- Pre-snap run-picture review: front, box count, safety depth, overhang/nickel position, force player.
+
+**Sidebar:** Untarget defender — explain the defender the offense intentionally leaves for the runner/read to make wrong, and distinguish that from a blown blocking assignment.
+
+---
+
+# Part IV — Run matchups
+
+## 4. Runs versus fronts, fits, and force players
+
+**Core question:** What does a run concept attack, which defender is it trying to displace or make wrong, and how does the defense take that answer away?
+
+This is where the learner sees the first complete offense-versus-defense cycle.
+
+For each run family—blast, dive, power, inside zone, outside zone, pitch/toss—the eventual matchup lesson must show:
+
+- the offensive aiming point and blocking story;
+- the relevant defensive front and gap structure;
+- the force/contain player;
+- the first unblocked or conflict defender;
+- the defender’s expected fit;
+- the offensive counter if the defense overplays the original answer;
+- the defensive counter to that counter;
+- a Madden practice setup that makes the conflict visible on replay.
+
+The goal is not “this run beats this front.” The goal is to show why the run has an answer, what the defense is trying to remove, and when the runner must stop following the play art and respond to the fit in front of him.
+
+---
+
+# Part V — Pass: offense
 
 ## 5. Offensive passing: protection and pre-snap answers
 
@@ -185,9 +229,9 @@ The final grouping should follow Madden’s in-game concept/playbook categories 
 
 ---
 
-# Part IV — Defending the pass
+# Part VI — Pass: defense
 
-## 8. Pass rush and pressure concepts
+## 7. Pass rush and pressure concepts
 
 **Core question:** How does the defense create pressure without simply sending bodies, and how does the quarterback recognize the risk before the snap?
 
@@ -202,7 +246,7 @@ The final grouping should follow Madden’s in-game concept/playbook categories 
 
 **Sidebar:** QB contain — why rushers keep the quarterback in the pocket, what contain sacrifices, and when the offense can punish it.
 
-## 9. Coverage structure and coverage types
+## 8. Coverage structure and coverage types
 
 **Core question:** How does the defense divide receivers and grass after the snap?
 
@@ -245,9 +289,9 @@ Teach safety tracking as pre-snap presentation → post-snap rotation → route 
 
 ---
 
-# Part V — Matchups and answers
+# Part VII — Pass matchups
 
-## 10. Route concepts versus coverage structures
+## 9. Route concepts versus coverage structures
 
 **Core question:** What does a concept stress, what is the defense trying to take away, and what is the next answer when the first answer is removed?
 
@@ -272,36 +316,36 @@ The matrix must not become a “beat this coverage” cheat sheet. Every cell ne
 
 ---
 
-# Part VI — Advanced offense
+# Part VIII — Advanced offense
 
-## 11. Constraint football: make the defense wrong twice
+## 10. Constraint football: make the defense wrong twice
 
 **Core question:** Once the defense has learned to answer the base run and pass game, how does the offense use conflict, timing, and formation movement to punish that answer?
 
 This section follows the core run and pass curriculum. It assumes the learner already understands personnel, fronts, run fits, protection, route concepts, and coverage structure.
 
-### 11.1 RPOs
+### 10.1 RPOs
 
 - The run/pass conflict defender.
 - Pre-snap box and leverage clues versus the actual post-snap read.
 - Why an RPO is not simply a handoff with a screen attached.
 - Run, throw, and abort decisions; where Madden's implementation differs by play, version, or animation.
 
-### 11.2 Option football
+### 10.2 Option football
 
 - Read option, speed option, triple-option concepts where Madden supports them.
 - Dive, quarterback, and pitch responsibilities.
 - Force/contain defender and the defender deliberately left unblocked for the read.
 - When the defense scrapes, exchanges, spills, or keeps the quarterback contained.
 
-### 11.3 Play action
+### 10.3 Play action
 
 - How a credible run picture changes second-level and safety behavior.
 - Under-center versus shotgun play action.
 - Protection and route timing: play action can buy space, but it can also delay the quarterback and expose pressure.
 - How to distinguish useful play action from calling a long-developing pass into an obvious pressure look.
 
-### 11.4 Motion and shifts
+### 10.4 Motion and shifts
 
 - Shift: changing the formation before the snap.
 - Motion: moving a player through or across the formation before the snap.
@@ -319,13 +363,14 @@ This section follows the core run and pass curriculum. It assumes the learner al
 2. Ric’s defensive-formation manuscript.
 3. Ric’s offensive-rushing manuscript.
 4. Ric’s defensive-rushing manuscript.
-5. Joint protection inventory, version-verified for Madden 27.
-6. Joint route-family taxonomy and diagram language.
-7. Joint route-concept map using in-game categorization.
-8. Pass-rush, coverage, and coverage-adjustment curriculum.
-9. Matchup matrix.
-10. Advanced offense: RPO, option, play action, motion, and shifts.
-11. Only then derive the public lessons, diagrams, labs, and quizzes.
+5. Run-matchup map: run concept × front/fit/force player.
+6. Joint protection inventory, version-verified for Madden 27.
+7. Joint route-family taxonomy and diagram language.
+8. Joint route-concept map using in-game categorization.
+9. Pass-rush, coverage, and coverage-adjustment curriculum.
+10. Pass-matchup matrix: route concept × coverage structure.
+11. Advanced offense: RPO, option, play action, motion, and shifts.
+12. Only then derive the public lessons, diagrams, labs, and quizzes.
 
 # Open decisions
 
