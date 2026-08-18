@@ -39,7 +39,7 @@ This course starts with visual orientation and a fixed reference formation. Shel
 | Unit | Learner question | New skill | What stays stable |
 | --- | --- | --- | --- |
 | 0. Read the field | “What am I looking at?” | orientation, personnel, strength | one base offense |
-| 1. Defensive layers | “Which defenders can affect which parts of the field?” | deep / box / perimeter roles | same offense, same nickel-odd baseline |
+| 1. Defensive layers | “Which defenders can affect which parts of the field?” | deep / box / perimeter roles | same offense, same 4-2-5 nickel baseline |
 | 2. Safety tracking | “What was the safety picture before and after the snap?” | shell presentation, rotation, distribution | same offense; controlled defensive changes |
 | 3. Box count | “Who can affect this run now?” | count relative to concept and blockers | same offense and defensive family |
 | 4. Leverage | “What is the nearest defender trying to remove?” | off/press, inside/outside, cushion | same offense and defensive family |
@@ -80,21 +80,21 @@ Every early MFC 101 example begins with the same offense and defense unless the 
 - It preserves a viable run surface, a tight end edge, and three receiver locations without turning the diagram into empty/5-wide.
 - It gives the learner a stable reference for the box, nickel alignment, and field/boundary leverage.
 
-## Defense: nickel odd, 3-3-5 family baseline
+## Defense: standard 4-2-5 nickel baseline
 
-The default defensive teaching picture is a **nickel odd / 3-3-5 family** look, not a five-down front.
+The default defensive teaching picture is a **standard 4-2-5 nickel** look: four down linemen, two linebackers, and five defensive backs. It gives a new player a familiar, easy-to-see front before MFC introduces odd and tite families later.
 
 **Personnel and alignment:**
 
-- **3 down linemen:** a 4i technique to the offense’s left, a 0-technique nose over the center, and a 4i technique to the offense’s right. Exact techniques can vary by call, but the teaching point is three interior/down defenders, not five.
-- **3 linebackers:** a Mike stacked behind the nose, plus two second-level linebackers/overhangs. Their exact width and depth can vary by strength, RPO, and formation adjustment.
+- **4 down linemen:** left defensive end, left defensive tackle, right defensive tackle, and right defensive end. The tackles work inside; the ends set the outer edges of the front.
+- **2 linebackers:** Mike and Will stacked at the second level. They fit the run, carry underneath responsibility, or become part of pressure.
 - **5 defensive backs:** two corners, one nickel/star aligned to the three-receiver side, and two safeties.
 
 Against the fixed shotgun 11-personnel formation, the strong-side/three-receiver distribution can pull the nickel or an overhang toward the TE/trips side. That movement is a teaching opportunity, not an error: it changes the practical box count and affects perimeter leverage.
 
 ## What the baseline does not claim
 
-“Nickel odd” is an organizing family, not a promise that every Madden playbook, team, game mode, or patch will label and align the look identically. Future Madden-specific lessons must use version-labeled in-game captures and reproducible setup notes. The football curriculum uses the baseline to teach relationships: three down, three linebackers, five DBs; deep/box/perimeter layers; and pre-snap versus post-snap responsibility.
+“4-2-5” is the clean teaching baseline, not a promise that every Madden playbook, team, game mode, or patch uses identical labels. Future Madden-specific lessons need version-labeled in-game captures and reproducible setup notes. The curriculum uses this look to teach relationships: four down, two linebackers, five DBs; deep/box/perimeter layers; and pre-snap versus post-snap responsibility.
 
 ---
 
@@ -140,33 +140,33 @@ Set the same shotgun 11 formation ten times. Before you look at the defense, poi
 
 ---
 
-# Unit 1 — See the nickel odd front
+# Unit 1 — See the 4-2-5 nickel front
 
 **Time:** about ten minutes
 
 Now that you can see your own formation, put a real defensive picture in front of it.
 
-The base look here is nickel odd—what many people will call a 3-3-5 family. Three down linemen. Three second-level linebackers or overhangs. Five defensive backs.
+The base look here is a standard 4-2-5 nickel. Four down linemen. Two linebackers. Five defensive backs. It is a cleaner first picture because you can see the front and the second level without sorting through an odd-front disguise on day one.
 
-Up front, you have a 4i on one side, a nose over the center, and another 4i on the other side. That is three down players. Not five. The linebackers may walk up close enough to muddy the picture, but do not turn every defender near the line into a defensive lineman.
+Up front, find the two ends and two tackles. Behind them, find the Mike and Will. The nickel is the fifth DB, usually aligned to the three-receiver side. The front can still slant, stunt, or walk a linebacker up, but the starting picture is four down and two backers.
 
-Behind them, the Mike is stacked in the middle. The other two second-level players can tighten, widen, walk over the tight end, lean toward trips, or become part of the pressure picture. Out wide, you have two corners and a nickel/star. Deep, two safeties begin the play.
+Behind the line, the Mike and Will can tighten, widen, walk toward the TE, lean toward trips, or become part of the pressure picture. Out wide, you have two corners and a nickel/star. Deep, two safeties begin the play.
 
 Against your TE-right, three-receiver-right formation, keep an eye on the nickel. He may be over F. He may tighten toward the tight end. He may become an edge player, a flat player, or an extra body in the run picture. That player is not scenery.
 
 ## What you should see
 
-> “Three down. Three second-level players. Nickel to the trips side. Two corners. Two safeties.”
+> “Four down. Mike and Will behind them. Nickel to the trips side. Two corners. Two safeties.”
 
 That sentence is a clean start. It does not tell you every assignment. It tells you where to keep watching.
 
 ## The trap
 
-A tight linebacker can make this front look like five down. A safety creeping into the box can make it feel even heavier. Slow down. Count the down linemen first. Then ask which second-level and DB players are close enough to change the play.
+A walked-up linebacker can make this front look heavier than it is. A safety creeping into the box can do the same. Start with the four true down linemen. Then ask which linebacker, nickel, or safety is close enough to change the play.
 
 ## On the practice field
 
-Put the defense in a nickel-odd family look. Freeze before the snap. Circle the three down linemen. Then find the Mike, both overhangs, the nickel, corners, and safeties. If the nickel tightens toward the TE side, say what he can affect: the edge, the flat, or the run fit.
+Put the defense in a 4-2-5 nickel look. Freeze before the snap. Circle the four down linemen. Then find Mike, Will, the nickel, corners, and safeties. If the nickel tightens toward the TE side, say what he can affect: the edge, the flat, or the run fit.
 
 ---
 
@@ -250,7 +250,7 @@ There is no magic box number.
 
 Six can be light or loaded. Seven can be a good run picture or a bad one. The number only matters against the run you called, the tight end side, your blockers, and the defender who can insert late.
 
-Start with the nickel odd front. Three down linemen are obvious: 4i, nose, 4i. Then find the Mike and the overhang who can hit the run now. Then look at the nickel and safeties. Are they hanging over receivers, or are they tight enough to change the edge or the interior fit?
+Start with the 4-2-5 front. The two tackles and two ends set the first run picture. Then find Mike and Will. Then look at the nickel and safeties. Are they hanging over receivers, or are they tight enough to change the edge or the interior fit?
 
 Do not count every red jersey. Count the defenders who can hit **this run**.
 
@@ -260,7 +260,7 @@ On an inside run, the nose, interior edges, Mike, and nearest second-level fit a
 
 Say it like this:
 
-> “Three down, Mike stacked, strong overhang tight. The nickel is wide. For inside zone, I am watching the strong overhang and any late safety insert.”
+> “Four down, Mike and Will stacked. The nickel is wide. For inside zone, I am watching the Will fit and any late safety insert.”
 
 ## Outside run toward the TE side
 
@@ -274,7 +274,7 @@ That is a football thought. “Seven means pass” is not.
 
 ## On the practice field
 
-Use one inside run and one outside run from the same formation. Run them against the same nickel-odd front three ways: nickel wide, nickel tight, safety inserted.
+Use one inside run and one outside run from the same formation. Run them against the same 4-2-5 front three ways: nickel wide, nickel tight, safety inserted.
 
 Before the snap, tell yourself:
 
@@ -341,7 +341,7 @@ That is the pre-snap scan. Shell → box → leverage → plan is the shorthand.
 
 ## Walk through the call
 
-You are in shotgun 11, TE right. The defense shows nickel odd. Two safeties are high. The nickel has tightened toward the TE/trips side. The outside corner to trips is off and outside.
+You are in shotgun 11, TE right. The defense shows a 4-2-5 nickel front. Two safeties are high. The nickel has tightened toward the TE/trips side. The outside corner to trips is off and outside.
 
 Your thought process:
 
@@ -398,7 +398,7 @@ Before a unit becomes a public lesson, it needs:
 ## Required diagram rules
 
 - Default offense is true shotgun 11 personnel; RB remains beside the QB; TE is attached strong right; X, F, and Z remain distinct.
-- Default defense is nickel odd / 3-3-5 family: 4i–0–4i, three second-level linebackers/overhangs, two corners, nickel/star, and two safeties.
+- Default defense is standard 4-2-5 nickel: two ends, two tackles, Mike and Will, two corners, nickel/star, and two safeties.
 - Diagrams must state whether they show **pre-snap presentation**, **early rotation**, or **route distribution**.
 - Do not change formation and coverage variable in the same introductory diagram unless the lesson explicitly teaches both.
 - Every safety-tracking diagram must show at least the relevant safety, corner, and flat/overhang movements. A pair of static safety dots is not a safety-read lesson.
@@ -406,7 +406,7 @@ Before a unit becomes a public lesson, it needs:
 ## Questions Ric should review before any design pass
 
 1. Is this foundation sequence the right opening curriculum for the intended Madden learner?
-2. Is nickel odd / 3-3-5 the right canonical defensive family to teach against the fixed shotgun 11 set, or should MFC introduce an even front first for lower cognitive load?
+2. Does the 4-2-5 nickel baseline give a new Madden player the cleanest first defensive picture against the fixed shotgun 11 set?
 3. Does the safety-tracking unit capture the modern pre-snap/post-snap reality without prematurely turning beginners into coverage-name guessers?
 4. Which Madden-specific behaviors must be verified in Madden 27 before the labs are published?
 5. Are there franchise/community examples that should shape the worked scenarios and capstone decisions?
