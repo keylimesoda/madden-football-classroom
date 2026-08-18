@@ -59,7 +59,7 @@ The learner is **not** graded on naming a coverage from one still image.
 
 Every early MFC 101 example begins with the same offense and defense unless the changing alignment is the explicit lesson subject. This keeps the learner from trying to interpret five variables at once.
 
-## Offense: shotgun 11 personnel, tight end strong right
+## Offense: shotgun 11 personnel, 2×2 distribution, tight end strong right
 
 **Personnel:** 1 RB, 1 TE, 3 WR.
 
@@ -69,9 +69,11 @@ Every early MFC 101 example begins with the same offense and defense unless the 
 - RB offset beside the QB, normally to the QB’s right or left as the lesson specifies. The RB is not split out as a receiver.
 - Offensive line: LT, LG, C, RG, RT.
 - TE attached to the right of the RT, making the right side the initial strength.
-- X receiver isolated to the left.
-- F receiver in the right slot.
+- X receiver wide left.
+- Slot receiver aligned left.
+- TE attached to the right of the right tackle.
 - Z receiver wide right.
+- RB offset beside the QB as the fifth eligible player in the formation.
 
 **Why this baseline:**
 
@@ -90,7 +92,7 @@ The default defensive teaching picture is a **standard 4-2-5 nickel** look: four
 - **2 linebackers:** Mike and Will stacked at the second level. They fit the run, carry underneath responsibility, or become part of pressure.
 - **5 defensive backs:** two corners, one nickel/star aligned to the three-receiver side, and two safeties.
 
-Against the fixed shotgun 11-personnel formation, the strong-side/three-receiver distribution can pull the nickel or an overhang toward the TE/trips side. That movement is a teaching opportunity, not an error: it changes the practical box count and affects perimeter leverage.
+Against the fixed shotgun 11-personnel 2×2 formation, the TE/Z side gives the defense a clear strength while X and the slot create a matched two-receiver side. The nickel can align toward either slot surface depending on the call. That choice is a teaching opportunity: it changes the practical box count and affects perimeter leverage.
 
 ## What the baseline does not claim
 
@@ -178,22 +180,22 @@ Formation is not a play call. Formation is the starting problem you hand the def
 
 ## Put it together: the baseline look
 
-For the rest of MFC 101, the home formation is **shotgun 11 personnel, TE right**:
+For the rest of MFC 101, the home formation is **shotgun 11 personnel, 2×2, TE right**:
 
 - quarterback in shotgun;
 - running back offset beside him;
 - attached tight end on the right;
-- X receiver isolated left;
-- F in the right slot;
-- Z wide right.
+- X wide left and a slot receiver left;
+- attached TE right and Z wide right;
+- RB offset beside the quarterback as the fifth eligible player.
 
-That is a 3×1-style surface to the right when you count F, Z, and the attached TE as the strong-side receiving picture. It gives the offense a tight end edge, a backfield player, an isolated X, and a three-threat side for the defense to sort out.
+That is a true 2×2 distribution: X and slot left; attached TE and Z right. The RB remains beside the quarterback. It gives the offense two balanced receiving surfaces while keeping a real tight-end edge on the right.
 
 Say it the way a quarterback would say it in the huddle:
 
-> “Gun 11. TE right. X iso left. Trips surface right.”
+> “Gun 11. Two by two. TE right. Back offset.”
 
-Now the defense has a real problem. Does it keep its nickel over the slot? Does it walk an overhang toward the tight end? Does it lean a safety toward trips? Does it leave the isolated X with space outside?
+Now the defense has a real problem. Does it keep the nickel over the left slot or walk it toward the TE side? Does it lean an overhang toward the attached tight end? Does it shade a safety to either two-receiver surface? Those answers shape the next read.
 
 Those are the questions that lead us into the defense. But first, know the people you brought to the line.
 
@@ -201,7 +203,7 @@ Those are the questions that lead us into the defense. But first, know the peopl
 
 Open Practice Mode and choose three formations before you run a single play:
 
-1. Shotgun 11 with a tight end attached.
+1. Shotgun 11, 2×2, with a tight end attached right and the RB offset beside the QB.
 2. I formation or another under-center look with a lead blocker.
 3. A 3×1 or trips formation from the same personnel family if the playbook offers it.
 
@@ -223,7 +225,7 @@ Before you diagnose a defense, get the picture right.
 
 The ball is the center of the conversation. Find the line of scrimmage. Find the quarterback. Then find the tight end and the running back. Once you know where those two are, the formation stops looking like a handful of icons and starts looking like an offense.
 
-Here is the home picture for this course: shotgun 11 personnel. The quarterback is in gun. The back is beside him. The tight end is attached on the right. X is alone to the left; F and Z are to the right. That tight end gives the formation a strong side. He can block the edge, release into a route, or force the defense to put a different kind of player on that side.
+Here is the home picture for this course: shotgun 11 personnel. The quarterback is in gun. The back is beside him. The tight end is attached on the right. X and the slot are to the left; the attached TE and Z are to the right. That tight end gives the formation a strong side. He can block the edge, release into a route, or force the defense to put a different kind of player on that side.
 
 Do not call this five wide. There are five eligible receivers, sure. But the back is still in the backfield and the tight end is still on the line. That geometry matters before the ball moves.
 
@@ -243,9 +245,9 @@ That is enough for now. You are building a map. A map is more useful than a gues
 
 When you line up in shotgun 11 with the TE on the right, say it plainly:
 
-> “Gun 11. TE right. X isolated left. Three-receiver side right.”
+> “Gun 11. Two by two. TE right. Back offset.”
 
-That is not busywork. It tells you where the extra blocker lives, where the defense has to account for three receivers, and which side is likely to pull the nickel or an overhang toward the formation.
+That is not busywork. It tells you where the extra blocker lives, how the defense has to account for both two-receiver surfaces, and which side the nickel or an overhang chooses to favor.
 
 ## Coach it up
 
