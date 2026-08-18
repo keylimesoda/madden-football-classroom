@@ -407,7 +407,25 @@ Every scheme module should teach the sequence in plain language:
 3. **Counter-punch:** Which space did that adjustment concede?
 4. **Counter-counter:** What will the defense try after it sees the counter, and how do we return to the original strength or show a third answer?
 
-### 11.4 The call sheet is a decision map
+### 11.4 Audibles: carry the answer to the line
+
+Audibles are where the scheme becomes usable in Madden. A player should not audible because a play looks fashionable. A player should audible because the defense showed the exact adjustment the call sheet anticipated.
+
+Teach audibles as **small families of connected answers from one formation**, not a giant emergency menu:
+
+- a base run that attacks the normal box;
+- a run or perimeter answer when the defense overloads the first run;
+- a quick pass when the defense inserts an extra run defender or gives cushion;
+- a protection or max-protect answer when pressure threatens the concept;
+- a shot or counter when the defense starts squatting on the quick answer.
+
+The quarterback should be able to say: “They changed the box,” “they gave me cushion,” “they walked pressure up,” or “they overplayed the counter.” Then the audible has a reason.
+
+Audible design must include the cost of changing the play. A run check can lose a favorable leverage picture. A quick audible can walk into a disguised rotation. A protection change can remove a receiver from the concept. The player needs to know what the answer fixes and what it gives away.
+
+Madden-specific audible controls, hot routes, custom audibles, and formation restrictions require version-labeled verification before publication.
+
+### 11.5 The call sheet is a decision map
 
 A future MFC scheme builder should organize calls by relationship, not only by Madden formation menu:
 
@@ -416,6 +434,8 @@ A future MFC scheme builder should organize calls by relationship, not only by M
 - counter-punch;
 - likely answer to the counter;
 - counter-counter;
+- **audible trigger:** the specific pre-snap look that tells the player to check out of the original call;
+- **audible answer:** the connected run, quick pass, protection, or shot that attacks that look;
 - formation/personnel versions of each;
 - protection and timing requirement;
 - game situation where the sequence is useful;
@@ -423,13 +443,14 @@ A future MFC scheme builder should organize calls by relationship, not only by M
 
 The goal is for a player to say, “They are overplaying my run,” and know the next two calls before opening the playbook.
 
-### Practice lab: build one three-call family
+### Practice lab: build one audible-ready three-call family
 
 1. Pick one formation and one base call you can execute consistently.
 2. Name the defensive adjustment that would stop it.
 3. Choose one counter that attacks that adjustment.
 4. Choose one answer when the defense anticipates the counter.
-5. Run the sequence in Practice Mode and write down what each call forces the defense to show.
+5. Give each answer a clear audible trigger: box overload, nickel insertion, off-corner cushion, pressure look, or defender squatting on the quick game.
+6. Run the sequence in Practice Mode and write down what each call forces the defense to show.
 
 **Example structure, not a finished play recommendation:**
 
