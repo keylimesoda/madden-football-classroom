@@ -357,6 +357,90 @@ This section follows the core run and pass curriculum. It assumes the learner al
 
 ---
 
+# Part IX — Offensive schemes
+
+## 11. Build an offense that can answer itself
+
+**Core question:** How do you organize formations and concepts so the defense has to make a choice, then pay for the choice it makes?
+
+A scheme is not a favorite playbook page. It is a connected group of calls that asks the defense the same hard question in more than one way.
+
+The first job is to decide what you do well—the **punch**. Maybe it is inside zone from shotgun 11 personnel. Maybe it is a quick game concept from Doubles. Maybe it is outside zone toward the tight end. The punch is not merely a call you like. It is a call that forces the defense to adjust its front, box, leverage, personnel, safety structure, or user responsibility.
+
+Once the defense adjusts, the offense needs the **counter-punch**: the call that attacks the answer the defense used to stop the punch. If the defense packs the box to stop inside zone, the offense may have a play-action, RPO, quick perimeter throw, or formation variation that attacks the extra body. If the defense widens to take away the perimeter answer, the original run lane or inside route may return.
+
+Then comes the counter-counter. A good opponent sees the counter coming. The offense should be able to return to the original idea, package it differently, or show the same look and attack a third space. This is not random play calling. It is a rock-paper-scissors problem where every answer changes what is vulnerable next.
+
+### 11.1 Same concept, different looks
+
+Run or pass the same core idea from more than one formation, personnel grouping, motion, or receiver distribution.
+
+Examples to develop:
+
+- inside zone from Doubles, Trips, and a condensed formation;
+- the same flood/sail family from a TE surface, bunch, and motioned set;
+- the same quick-game answer with the back or tight end placed differently.
+
+The defense must recognize the concept while also accounting for a new strength, surface, receiver distribution, or motion rule. That slows its adjustment and can create a simpler read for the quarterback.
+
+### 11.2 Different concepts, same look
+
+Keep the formation and personnel stable while changing the actual threat.
+
+From the canonical **Gun 11 · 2×2 · Y attached right · RB offset** picture, the offense might carry:
+
+- an inside run;
+- an outside run toward the TE side;
+- a quick perimeter answer;
+- a play-action concept;
+- a dropback route concept;
+- an RPO or option constraint where the game supports it.
+
+The defense cannot solve the formation once and relax. The same picture can attack the interior, edge, flat, deep middle, or isolated receiver.
+
+### 11.3 Build the punch sequence
+
+Every scheme module should teach the sequence in plain language:
+
+1. **Punch:** What are we doing well enough that the defense must change something?
+2. **Defensive adjustment:** What player, fit, leverage, shell, or pressure answer did the defense use?
+3. **Counter-punch:** Which space did that adjustment concede?
+4. **Counter-counter:** What will the defense try after it sees the counter, and how do we return to the original strength or show a third answer?
+
+### 11.4 The call sheet is a decision map
+
+A future MFC scheme builder should organize calls by relationship, not only by Madden formation menu:
+
+- core punch;
+- defensive adjustment it provokes;
+- counter-punch;
+- likely answer to the counter;
+- counter-counter;
+- formation/personnel versions of each;
+- protection and timing requirement;
+- game situation where the sequence is useful;
+- Madden version/playbook availability.
+
+The goal is for a player to say, “They are overplaying my run,” and know the next two calls before opening the playbook.
+
+### Practice lab: build one three-call family
+
+1. Pick one formation and one base call you can execute consistently.
+2. Name the defensive adjustment that would stop it.
+3. Choose one counter that attacks that adjustment.
+4. Choose one answer when the defense anticipates the counter.
+5. Run the sequence in Practice Mode and write down what each call forces the defense to show.
+
+**Example structure, not a finished play recommendation:**
+
+> Punch: inside run makes the defense tighten the box.  
+> Counter: perimeter or play-action answer attacks the added box defender.  
+> Counter-counter: defense widens or backs out; return to the run or hit the space it reopened.
+
+The exact calls depend on personnel, playbook, opponent, Madden version, and what the actual defensive adjustment shows.
+
+---
+
 # Writing and production order
 
 1. Ric’s full offensive-formation manuscript.
