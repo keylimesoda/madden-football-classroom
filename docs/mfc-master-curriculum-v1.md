@@ -45,8 +45,6 @@ Most modern rosters do not carry a traditional fullback. In Madden formations th
 
 ### 1(a)(ii) Formations
 
-*Manuscript not written yet.*
-
 #### The offensive core
 
 - Center, guards, tackles, and the five-man line as the spine of the offense.
@@ -141,19 +139,14 @@ Each run family needs: Madden name/playbook label, aiming point, blocking story,
 
 **Sidebar:** Untarget defender — the defender the offense intentionally leaves for the runner or read to make wrong, versus a genuinely missed blocking assignment.
 
-## 2(c) Matchups
+## 2(c) Matchup matrix
 
 *Manuscript not written yet.*
 
 Run concept × front × fit × force player:
 
-- what the run is attacking;
-- which defender it tries to displace or make wrong;
-- how the defense removes the answer;
-- the offensive counter;
-- the defensive counter to that counter.
+Which concept to run against which fronts?
 
-This is not “this run beats that front.” It is the first answer-and-counter cycle.
 
 ---
 
@@ -178,7 +171,7 @@ This is not “this run beats that front.” It is the first answer-and-counter 
 - Quick-game and hot-route answers to pressure.
 - Tradeoffs: every protection answer changes the route concept, release count, timing, or escape plan.
 
-### Route families
+### Routes
 
 #### Vertical and intermediate routes
 
@@ -193,14 +186,10 @@ This is not “this run beats that front.” It is the first answer-and-counter 
 - WR, RB, TE, tunnel, bubble, and slip screens.
 - Switch releases, reduced splits, stack/bunch releases, and route stems.
 
-#### Player access
-
-- Route availability by Madden position and player archetype.
-- What changes when a TE, RB, or receiver is asked to run a route outside that player’s normal skill set.
-
 **Sidebar:** Pre-snap route adjustments — which players can make which changes, how hot routes alter spacing/protection/timing, and why an available route is not automatically a compatible route.
 
-### Route concepts
+### Route combo concepts
+Combination of routes + QB progression
 
 #### Quick-game and spacing concepts
 
@@ -243,7 +232,7 @@ Use real football terminology as the primary taxonomy; use Madden’s in-game ca
 
 - Man, zone, and match as defender behavior—not only play-call labels.
 
-#### Underneath and deep responsibilities
+#### Zone types (underneath and over top)
 
 - Flat, squat flat, cloud flat, curl-flat, hook-curl, seam/hook variants.
 - Deep third, deep half, and deep quarter.
@@ -256,24 +245,14 @@ Use real football terminology as the primary taxonomy; use Madden’s in-game ca
 
 **Sidebar:** Pre-snap adjustments — press/off, shade/leverage, alignment, safety/nickel adjustments, and the tradeoff each creates.
 
-## 3(c) Matchups
+## 3(c) Matchup matrix
 
 *Manuscript not written yet.*
 
 Route concept × coverage structure:
 
-- formation/distribution;
-- personnel and formation version;
-- protection and time requirement;
-- primary defender conflict;
-- man, zone, and match response;
-- pre-snap clue and post-snap confirmation;
-- quarterback progression and safe answer;
-- defensive counter;
-- offensive counter and counter-counter;
-- Madden version caveat.
+Which route combo concepts to run against which coverages?
 
-The eventual matrix must teach the counter, not become a “beat this coverage” cheat sheet.
 
 ---
 
@@ -382,16 +361,3 @@ The player should be able to say, “They are overplaying my run,” and know th
 
 ---
 
-# Writing order
-
-1. Expand Chapter 1(a)(i) only where Ric asks for support; preserve his draft as canonical.
-2. Ric drafts Chapter 1(b): defensive personnel and formations.
-3. Ric drafts Chapter 2(a): offensive rushing.
-4. Ric drafts Chapter 2(b): defensive rushing.
-5. Build the Chapter 2(c) run-matchup map.
-6. Develop and version-verify Chapter 3(a) protection options and route taxonomy.
-7. Develop Chapter 3(b) pass rush and coverage curriculum.
-8. Build the Chapter 3(c) pass-matchup matrix.
-9. Develop Chapter 4 advanced concepts.
-10. Develop Chapter 5 planning and scheme-development materials.
-11. Only then turn approved manuscripts into public lessons, diagrams, labs, and quizzes.
