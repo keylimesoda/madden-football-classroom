@@ -255,7 +255,7 @@ Do not race past the formation to hunt a coverage name. If you cannot describe y
 
 ## On the practice field
 
-Set the same shotgun 11 formation ten times. Before you look at the defense, point out the back, tight end, X, F, and Z. Then name the strong side. Do it until you can see the formation in one glance.
+Set the same shotgun 11 formation ten times. Before you look at the defense, point out the back, tight end, X, slot, and Z. Then name the strong side. Do it until you can see the formation in one glance.
 
 ---
 
@@ -460,7 +460,7 @@ That is the pre-snap scan. Shell → box → leverage → plan is the shorthand.
 
 ## Walk through the call
 
-You are in shotgun 11, TE right. The defense shows a 4-2-5 nickel front. Two safeties are high. The nickel has tightened toward the TE/trips side. The outside corner to trips is off and outside.
+You are in shotgun 11, TE right. The defense shows a 4-2-5 nickel front. Two safeties are high. The nickel has tightened toward the TE/Z side. The corner over Z is off and outside.
 
 Your thought process:
 
@@ -516,7 +516,7 @@ Before a unit becomes a public lesson, it needs:
 
 ## Required diagram rules
 
-- Default offense is true shotgun 11 personnel; RB remains beside the QB; TE is attached strong right; X, F, and Z remain distinct.
+- Default offense is true shotgun 11 personnel in 2×2: RB beside the QB; X and slot left; attached TE and Z right.
 - Default defense is standard 4-2-5 nickel: two ends, two tackles, Mike and Will, two corners, nickel/star, and two safeties.
 - Diagrams must state whether they show **pre-snap presentation**, **early rotation**, or **route distribution**.
 - Do not change formation and coverage variable in the same introductory diagram unless the lesson explicitly teaches both.
