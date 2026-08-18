@@ -98,6 +98,123 @@ Against the fixed shotgun 11-personnel formation, the strong-side/three-receiver
 
 ---
 
+# Unit 0 — Offensive formation: know your people before you read theirs
+
+**Time:** about fifteen minutes
+
+Football is like chess. You can win a game without a brilliant move if you consistently know where the pieces are, what each piece can do, and which piece has been left exposed.
+
+That starts before the snap. Before you decide whether the defense is one-high or two-high, before you count the box, before you even think about a hot route, look at the eleven players wearing your jersey. Who is on the field? Where are they lined up? What can this formation become after the ball moves?
+
+A defense sees all of that too. Personnel and formation are the first messages an offense sends across the line of scrimmage. Good offenses learn to send one message and play a different song.
+
+## Personnel: who is on the field?
+
+Offensive personnel is written with two numbers. The first number is running backs; the second is tight ends. The rest of the skill players are wide receivers.
+
+So **11 personnel** means one running back and one tight end. That leaves three wide receivers.
+
+**12 personnel** means one running back and two tight ends. That leaves two wide receivers.
+
+**13 personnel** means one running back and three tight ends. That leaves one wide receiver.
+
+**21 personnel** means two running backs and one tight end. That leaves two wide receivers.
+
+**22 personnel** means two running backs and two tight ends. That leaves one wide receiver.
+
+The math always adds up to five eligible receivers. The offensive line is still five players. The quarterback is still one player. Personnel tells you how the five eligible receivers are built; alignment tells you where they go.
+
+Do not hear “12 personnel” and assume run. Do not hear “11 personnel” and assume pass. Personnel gives the defense a starting expectation. It does not hand them the answer.
+
+Eleven personnel can spread the field with five players eligible in the route. Thirteen personnel can show a heavy surface, then release tight ends into a route combination that strains coverage. A back can motion out of the backfield. A tight end can shift from attached to the slot. The same people can make the defense solve a different geometry after it has already chosen a call.
+
+That is the first offensive advantage: make the defense declare how it wants to handle your people, then make it live with the answer.
+
+## The line is the spine of the formation
+
+Start at the center. He has a guard on each side. Outside the guards sit the tackles. That five-man line is the spine of the offense.
+
+Traditionally, the left side gets called the “pretty side” and the right side the “ugly side.” The old shorthand comes from blind-side protection: a right-handed quarterback usually sees pressure from his right, while the left tackle handles the defender coming from the quarterback’s blind side. Teams have often valued different body types and skill sets at each tackle spot—more finesse in space on the left, more power on the right—but do not turn that into a law. Modern offenses ask both tackles to pass protect, reach, pull, down-block, and handle movement. The individual player and the concept matter more than the nickname.
+
+Everything else lines up around that spine.
+
+An attached tight end lines up next to a tackle. The side with the tight end is usually the **strong side**. The other side is the **weak side**. That label is not decoration. The tight end can become an extra edge blocker, a receiver in the seam or flat, a motion player, or the player that forces the defense to add a bigger body to one side of the formation.
+
+When you hear “run it to strength,” you are usually hearing “run it toward the tight end side.” That does not mean the ball must go there. Weak-side runs, split flow, counters, and backside cuts exist precisely because defenses lean toward the strength they can see.
+
+## Start with the quarterback: under center or in gun?
+
+Next, find the quarterback.
+
+**Under center** means the quarterback is directly behind the center. The exchange happens immediately. That helps the offense get downhill quickly on handoffs and sells play-action from a compact backfield. The tradeoff is that a passing quarterback has to gain depth before he can settle into a conventional drop.
+
+**Shotgun** puts the quarterback several yards behind the center. The snap travels farther, but the quarterback starts with a better view of the front and does not need to take as many steps just to get into throwing depth. In Madden, shotgun also gives you a clearer pre-snap look at the box, safeties, and leverage—but the defense knows you are looking at the same picture.
+
+The running back tells you more about the shape of the offense.
+
+Under center, the halfback is often directly behind the quarterback. In I formation, a fullback may sit between the quarterback and the halfback. That fullback is not there to carry the ball very often. He is there to find a linebacker, kick out an edge player, lead through the hole, or sell a downhill run before the offense breaks into play-action.
+
+In shotgun, the back usually aligns beside the quarterback. That offset can matter. The back’s side affects pass protection, run direction, motion, RPO presentation, and which side of the quarterback has a quick checkdown.
+
+Most modern NFL and Madden rosters do not carry a traditional fullback. When a Madden formation calls for one, the game may use a backup tight end, a power back, or another available player in that role. The label matters less than the job: somebody is being asked to lead, block, release, or threaten the defense from the backfield.
+
+## Receiver distribution: how is the field divided?
+
+Once you know the personnel and the backfield, count how the eligible receivers are distributed from left to right.
+
+The cleanest receiver-distribution language counts the wide/slot receivers on each side:
+
+- **2×2:** two receivers left, two receivers right. The fifth eligible may be an attached tight end, a back in the backfield, or another receiver depending on the formation.
+- **3×1:** three receivers to one side—often called **trips**—and one receiver to the other. The fifth eligible is again accounted for by the tight end or back.
+- **Bunch:** three receivers clustered tightly enough to create natural traffic and release problems.
+- **Stack:** two receivers aligned one behind the other, often to protect a release or force the defense to communicate.
+- **Empty:** the backfield is empty. The running back has split out or is otherwise not beside/behind the quarterback.
+
+Do not confuse receiver distribution with personnel. A team can be in 11 personnel and line up 3×1. It can be in 11 and spread into empty. It can be in 13 and still create a serious pass picture if the tight ends detach, shift, or release into routes.
+
+Distribution changes the defense’s math. Trips can force the nickel, linebacker, safety, and corner to sort out three threats on one side. A 2×2 set can stretch the defense more evenly and reveal how it wants to handle each side. Bunch and stack make man coverage communicate through traffic. Empty tells the defense the back is no longer in the box—but it also strips a potential pass protector from the quarterback.
+
+Formation is not a play call. Formation is the starting problem you hand the defense.
+
+## Put it together: the baseline look
+
+For the rest of MFC 101, the home formation is **shotgun 11 personnel, TE right**:
+
+- quarterback in shotgun;
+- running back offset beside him;
+- attached tight end on the right;
+- X receiver isolated left;
+- F in the right slot;
+- Z wide right.
+
+That is a 3×1-style surface to the right when you count F, Z, and the attached TE as the strong-side receiving picture. It gives the offense a tight end edge, a backfield player, an isolated X, and a three-threat side for the defense to sort out.
+
+Say it the way a quarterback would say it in the huddle:
+
+> “Gun 11. TE right. X iso left. Trips surface right.”
+
+Now the defense has a real problem. Does it keep its nickel over the slot? Does it walk an overhang toward the tight end? Does it lean a safety toward trips? Does it leave the isolated X with space outside?
+
+Those are the questions that lead us into the defense. But first, know the people you brought to the line.
+
+## On the practice field
+
+Open Practice Mode and choose three formations before you run a single play:
+
+1. Shotgun 11 with a tight end attached.
+2. I formation or another under-center look with a lead blocker.
+3. A 3×1 or trips formation from the same personnel family if the playbook offers it.
+
+For each formation, say three things before you look at the defense:
+
+> “Personnel. QB location. Receiver distribution.”
+
+Then make one prediction: *What kind of defender will the offense force the defense to put on the field or move toward the strength?*
+
+Do not worry about being right on every prediction yet. The point is to stop seeing formations as menu names and start seeing them as problems you are giving the defense.
+
+---
+
 # Unit 0 — Get your bearings
 
 **Time:** about eight minutes
