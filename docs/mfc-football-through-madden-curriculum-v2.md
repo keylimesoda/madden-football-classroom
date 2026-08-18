@@ -454,7 +454,8 @@ The exact calls depend on personnel, playbook, opponent, Madden version, and wha
 9. Pass-rush, coverage, and coverage-adjustment curriculum.
 10. Pass-matchup matrix: route concept × coverage structure.
 11. Advanced offense: RPO, option, play action, motion, and shifts.
-12. Only then derive the public lessons, diagrams, labs, and quizzes.
+12. Offensive schemes: punch, counter-punch, counter-counter; same concept/different looks and different concepts/same look.
+13. Only then derive the public lessons, diagrams, labs, and quizzes.
 
 # Open decisions
 
