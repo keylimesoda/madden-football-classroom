@@ -1,599 +1,687 @@
 # MFC 101 — Field Vision I
 
-## Curriculum draft v1 — content before presentation
+## Curriculum manuscript v2
 
-**Audience:** Madden players who know how to choose plays and move the ball, but do not yet have a reliable way to explain what they see before a snap.
+**Status:** Curriculum only. This document is the source of truth for future lessons, diagrams, labs, and assessments. It is deliberately not page copy or a presentation specification.
 
-**Course promise:** At the end of MFC 101, a learner can look at a normal offensive formation, identify the defense's visible starting picture, choose a first answer and a safe answer, and explain what post-snap evidence would change that plan.
+**Audience:** Madden players who can select plays and operate the controls but do not yet have a dependable language or sequence for understanding the defense before and after the snap.
 
-**What this course is not:**
-- a glossary test;
-- a catalog of money plays;
-- a promise that a pre-snap read reveals the exact coverage;
-- a replacement for learning route concepts, blocking rules, or football strategy later.
+**Course promise:** Learners finish MFC 101 able to describe a normal offensive formation, identify defensive layers, track the safety picture from pre-snap presentation through post-snap rotation, count relevant run defenders, read basic perimeter leverage, and create a conditional plan instead of guessing a coverage name.
 
-**Design premise:** Learners first need a stable visual reference. Every lesson uses the same base offensive formation unless changing the formation is itself the subject. The offense is **11 personnel from shotgun**:
+## The central teaching principle
 
-- 1 running back;
-- 1 tight end;
-- 3 wide receivers;
-- QB in shotgun;
-- RB aligned beside the QB;
-- TE attached on the right/strong side;
-- X receiver isolated left; F receiver in the right slot; Z receiver wide right.
+The pre-snap picture is a starting hypothesis. Modern defenses are designed to make an initial picture incomplete or misleading. A learner must therefore:
 
-This prevents a common beginner failure: changing the offense and defense at the same time, then asking the learner to infer which change matters.
+1. describe what is visible before the snap;
+2. predict only what that evidence reasonably supports;
+3. follow the defense through early post-snap rotation;
+4. revise the plan from the resulting distribution.
+
+The course does **not** teach that a one-high or two-high shell is a coverage call. It teaches that safety alignment is one piece of a time-based read.
 
 ---
 
-## Outcomes and mastery gate
+# 1. Scope, sequence, and mastery
 
-A learner earns the **Field Vision I** badge only when they can do all four tasks on an unfamiliar, static pre-snap look:
+## Why this is the right starting point
 
-1. Correctly name the **pre-snap** shell as one-high or two-high, while explicitly saying it is an initial structure rather than the final coverage.
-2. Track the first post-snap movement of the safeties, corners, and flat defenders well enough to say whether the picture stayed intact, rotated, or remained unresolved.
-3. Count the defenders who can immediately affect the run, while explaining that the count only matters relative to the called run and available blockers.
-4. Describe the alignment of a relevant perimeter defender: off/press and inside/outside leverage.
-5. State a plan in this form:
+A player cannot meaningfully read a shell, box, or leverage until the player can first answer four simpler questions:
 
-> “I see **[shell]**, **[box count / front clue]**, and **[leverage clue]**. I will check **[first answer]** after the snap. If **[post-snap evidence]** changes the picture, I will use **[safe answer]**.”
+- Which side is offense and which is defense?
+- Where is the line of scrimmage?
+- Who is actually on the field for each side?
+- Which defensive players are deep, near the line, or on the perimeter?
 
-A correct answer is not a correct coverage guess. A learner passes by using the available evidence, naming uncertainty, and preserving a safe option.
+This course starts with visual orientation and a fixed reference formation. Shell tracking comes *after* that foundation, not before it.
+
+## MFC 101 sequence
+
+| Unit | Learner question | New skill | What stays stable |
+| --- | --- | --- | --- |
+| 0. Read the field | “What am I looking at?” | orientation, personnel, strength | one base offense |
+| 1. Defensive layers | “Which defenders can affect which parts of the field?” | deep / box / perimeter roles | same offense, same nickel-odd baseline |
+| 2. Safety tracking | “What was the safety picture before and after the snap?” | shell presentation, rotation, distribution | same offense; controlled defensive changes |
+| 3. Box count | “Who can affect this run now?” | count relative to concept and blockers | same offense and defensive family |
+| 4. Leverage | “What is the nearest defender trying to remove?” | off/press, inside/outside, cushion | same offense and defensive family |
+| 5. The pre-snap plan | “What do I check first, and what changes my mind?” | conditional decision routine | all prior vocabulary |
+
+## Mastery standard: Field Vision I
+
+A learner earns the badge only after they can examine an unfamiliar pre-snap look and say:
+
+> “The offense is in **[formation/personnel]**. The defense is presenting **[one-high/two-high]**. I count **[relevant near-line defenders]** against **[run/concept clue]**. The **[relevant corner/nickel]** is **[off/press, inside/outside]**. I will inspect **[first answer]** after the snap. If **[specific safety/corner/flat/pressure evidence]** changes the picture, I will move to **[safe answer]**.”
+
+The learner is **not** graded on naming a coverage from one still image.
 
 ---
 
-# Unit 0 — Orientation: What the quarterback can know before the snap
+# 2. Canonical teaching baseline
 
-**Recommended time:** 5 minutes
+Every early MFC 101 example begins with the same offense and defense unless the changing alignment is the explicit lesson subject. This keeps the learner from trying to interpret five variables at once.
+
+## Offense: shotgun 11 personnel, tight end strong right
+
+**Personnel:** 1 RB, 1 TE, 3 WR.
+
+**Alignment:**
+
+- QB in shotgun, approximately five yards behind the center.
+- RB offset beside the QB, normally to the QB’s right or left as the lesson specifies. The RB is not split out as a receiver.
+- Offensive line: LT, LG, C, RG, RT.
+- TE attached to the right of the RT, making the right side the initial strength.
+- X receiver isolated to the left.
+- F receiver in the right slot.
+- Z receiver wide right.
+
+**Why this baseline:**
+
+- It is recognizable in Madden and in modern football.
+- It creates a clear weak side and strong side.
+- It preserves a viable run surface, a tight end edge, and three receiver locations without turning the diagram into empty/5-wide.
+- It gives the learner a stable reference for the box, nickel alignment, and field/boundary leverage.
+
+## Defense: nickel odd, 3-3-5 family baseline
+
+The default defensive teaching picture is a **nickel odd / 3-3-5 family** look, not a five-down front.
+
+**Personnel and alignment:**
+
+- **3 down linemen:** a 4i technique to the offense’s left, a 0-technique nose over the center, and a 4i technique to the offense’s right. Exact techniques can vary by call, but the teaching point is three interior/down defenders, not five.
+- **3 linebackers:** a Mike stacked behind the nose, plus two second-level linebackers/overhangs. Their exact width and depth can vary by strength, RPO, and formation adjustment.
+- **5 defensive backs:** two corners, one nickel/star aligned to the three-receiver side, and two safeties.
+
+Against the fixed shotgun 11-personnel formation, the strong-side/three-receiver distribution can pull the nickel or an overhang toward the TE/trips side. That movement is a teaching opportunity, not an error: it changes the practical box count and affects perimeter leverage.
+
+## What the baseline does not claim
+
+“Nickel odd” is an organizing family, not a promise that every Madden playbook, team, game mode, or patch will label and align the look identically. Future Madden-specific lessons must use version-labeled in-game captures and reproducible setup notes. The football curriculum uses the baseline to teach relationships: three down, three linebackers, five DBs; deep/box/perimeter layers; and pre-snap versus post-snap responsibility.
+
+---
+
+# Unit 0 — Read the field before reading the defense
+
+**Recommended learning time:** 8–10 minutes
 
 ## Learner question
 
-> “What am I actually trying to accomplish before the ball is snapped?”
+> “What do I need to identify before I start calling out coverage?”
 
-## Core idea
+## Learning objective
 
-The pre-snap picture is not a secret answer key. It is a set of clues that helps the quarterback choose what to inspect first after the snap.
+Learners can orient themselves on a static pre-snap image and identify the offense’s personnel, strength, eligible receiver distribution, line of scrimmage, and the defense’s three layers.
 
-The learner should separate four levels of certainty:
+## Core concepts
 
-- **Visible fact:** “There are two deep safeties before the snap.”
-- **Useful inference:** “The defense is presenting a two-high shell, so I should inspect the box and expect that post-snap rotation may matter.”
-- **Post-snap evidence:** “The weak safety drove down; the middle closed; the corners and flat defenders now determine which family this is behaving like.”
-- **Unverified conclusion:** “This is definitely Cover 2.”
+### 0.1 The line of scrimmage is the visual anchor
 
-The course trains the first three and explicitly prohibits jumping from an initial shell to a coverage name. The object is not to make the learner timid; it is to make the learner precise about *when* the evidence becomes available.
+Every defensive observation has a depth relationship to the line of scrimmage. Learners should not start with player labels. They should first locate:
 
-## Concept sequence
+- the offensive line;
+- the ball;
+- the line of scrimmage;
+- the direction the offense is attacking.
 
-1. **Formation tells you what your offense can do.**
-   - Where are the eligible receivers?
-   - Where is the tight end?
-   - Is the running back beside or behind the quarterback?
-   - Which side is the strength of the formation?
+Without that anchor, a player cannot reliably distinguish a deep safety from a second-level linebacker or understand whether a defender is actually in run support range.
 
-2. **The defense presents clues at different depths.**
-   - Deep: safeties and the shell.
-   - Near the line: box defenders and front.
-   - Perimeter: corners and leverage.
+### 0.2 Personnel is geometry
 
-3. **A plan needs a first answer and a safe answer.**
-   - First answer: the concept or player the quarterback checks first after the snap.
-   - Safe answer: a controlled alternative when the first answer disappears.
+Personnel is not trivia. It determines where the offense can create space and which defensive responses are plausible.
 
-## Misconceptions to correct
+For the baseline 11-personnel formation, learners must identify:
 
-- “Good players identify the exact coverage before the snap.”
-  - Better: good players reduce uncertainty before the snap and confirm after it.
-- “A read means I have to throw to the first receiver I look at.”
-  - Better: a read is a sequence of checks, not a promise to throw.
-- “If I see a favorable look, I should force the favorable call.”
-  - Better: favorable is conditional. The snap can change the picture.
+- one running back beside the QB;
+- one attached tight end;
+- three wide receivers;
+- the strong side created by the TE;
+- the isolated receiver side.
 
-## Practice prompt
+The learner should say, “11 personnel, shotgun, TE strong right,” before learning any advanced coverage term.
 
-Show the stable 11-personnel formation with no defensive labels. Ask learners to point out:
+### 0.3 Defense has three visual layers
 
-- QB;
-- RB;
-- TE;
-- three WRs;
-- strong side;
-- line of scrimmage.
+Use plain language first:
 
-**Exit criterion:** Learner can describe the offense without calling it five wide.
+1. **Deep layer:** safeties and any defender visibly protecting deep space.
+2. **Box / near-line layer:** down linemen, linebackers, and support defenders positioned to affect the run or pressure quickly.
+3. **Perimeter layer:** corners and nickel/overhang defenders aligned over or near receivers.
 
----
-
-# Unit 1 — Shells: Where is the visible deep help?
-
-**Recommended time:** 8 minutes
-
-## Learner question
-
-> “What does one-high or two-high actually tell me?”
-
-## Vocabulary
-
-- **Shell:** the initial deep-safety structure visible before the snap.
-- **One-high:** one safety visibly positioned deep in the middle of the field.
-- **Two-high:** two safeties visibly positioned deep, splitting the field.
-- **Rotation:** safety movement after the snap that changes the initial picture.
-- **Middle open / middle closed:** a practical description of whether the deep middle is split by two deep safeties or protected by a single middle safety after the rotation begins.
-- **Coverage family:** the actual post-snap behavior of deep, corner, hook, and flat defenders—not a label guessed from the shell.
-
-## Teaching sequence
-
-### 1. Spot the safeties before the rest of the defense
-
-The learner begins every shell read by looking deep, not at the line of scrimmage.
-
-**One-high picture:** one defender is deep in the middle. Other defensive personnel may be near the line, outside, or rotating late.
-
-**Two-high picture:** two defenders are deep, each responsible for part of the deep field at the moment of the snap.
-
-The immediate goal is only to count deep safeties and record the initial structure. Do not ask the learner to identify Cover 1, Cover 2, Cover 3, Cover 4, quarters, palms, or match coverage from that first frame. Those structures can share the same presentation and can rotate after the ball moves.
-
-### 2. Learn what shell changes
-
-A shell does not tell the learner the final coverage. It changes the *next question*:
-
-| Visible shell | Productive next question | Unproductive shortcut |
-| --- | --- | --- |
-| Two-high | “How many defenders are near the line, and is there space underneath?” | “It is definitely Cover 2.” |
-| One-high | “Where is the extra near-line defender, and how are the corners aligned?” | “It is definitely Cover 3 or man.” |
-
-### 3. Confirm with motion after the snap — the coverage picture is a sequence
-
-Safety movement is evidence, but it is not sufficient evidence by itself. Modern defenses deliberately borrow each other’s pre-snap pictures.
-
-In replay, learners should take **three snapshots**:
-
-1. **Before the snap:** How many safeties are visibly deep? Where are the corners?
-2. **At the safety decision:** Which safety stays deep, drives down, or crosses the formation? Does the middle become open or closed?
-3. **At the route conflict:** What do the corners and flat defenders do? Does the corner squat, sink, carry vertically, or pass work to another defender?
-
-This sequence introduces the actual problem:
-
-- A **two-high presentation can rotate to a middle-closed/Cover 3-like picture** when a safety drives down and the other becomes the deep middle player.
-- A **two-high presentation does not distinguish Cover 2 from quarters/Cover 4**. Both can begin with two safeties deep. The learner must watch the corner and flat behavior after the snap.
-- A **quarters/Cover 4 structure can look deceptively Cover-2-like** to a beginner because both safeties begin high and both corners may initially appear to protect outside space. The distinction emerges in vertical distribution, corner technique, and flat responsibility—not the first safety count.
-- A defense may present one-high and rotate toward a two-high or split-field result. The learner should say “the picture changed” before they try to name the change.
-
-At this stage, the learner need not diagnose every coverage family. They must reliably notice whether the initial shell held, spun, or produced an unresolved mixed picture.
+A defender can move from one functional layer to another after the snap. The learner starts by recording where defenders begin.
 
 ## Worked example
 
-**Pre-snap observation:** Two safeties are ten-plus yards deep. The offense is in the stable shotgun 11-personnel formation.
+**Prompt:** “You see the QB in shotgun, the RB beside him, a TE attached to the right, an isolated receiver left, and two receivers to the right. What is the offense?”
 
-**Good statement:**
+**Expected answer:** “Shotgun 11 personnel, with the TE strong right. It is not empty or five wide because the RB remains in the backfield and the TE is attached.”
 
-> “Two-high shell. My next question is the box count. After the snap, I will track whether a safety spins down, whether the middle closes, and how the corner/flat defenders react before I treat this as a coverage family.”
+## Common misconceptions
 
-**Bad statement:**
+- **“Any five eligible receivers means five wide.”**
+  - Correction: five eligible receivers can exist in 11 personnel. Formation depends on where the RB and TE align, not only on eligibility.
+- **“The TE is just another receiver.”**
+  - Correction: the TE changes the edge, the strength, available blocking surfaces, and defensive alignment.
+- **“The defense is a pile of players.”**
+  - Correction: begin sorting it into deep, near-line, and perimeter layers.
 
-> “Cover 2. I will force a streak.”
+## Practice task
 
-Why the bad statement fails: two safeties can belong to multiple coverage families and can rotate. Even when the safeties remain high, Cover 2 and quarters/Cover 4 create different answers through corner, flat, and vertical-match behavior. A streak may be a bad answer depending on leverage, route combination, pressure, and post-snap movement.
+Show three still frames of the canonical offense against the same nickel-odd family with small alignment shifts. Learners label only:
 
-## Madden Practice Mode lab
+- line of scrimmage;
+- QB, RB, TE, X, F, Z;
+- strong side;
+- deep, box, and perimeter defenders.
 
-1. Select the stable 11-personnel shotgun formation.
-2. Call the same offensive play repeatedly.
-3. Call or select defensive looks that show one-high, then two-high safety alignment.
-4. Before every snap, say only: “one-high” or “two-high.”
-5. Pause replay at three moments: pre-snap, the first safety movement, and the first route conflict.
-6. Record: “The shell started **[one/two high]**. The middle **[stayed open/closed/opened/closed late]**. The corner/flat reaction was **[brief description]**.”
-7. Only after recording those facts may the learner propose a coverage family—and must mark it **confirmed**, **likely**, or **unresolved**.
+## Assessment
 
-**Success standard:** 8 of 10 shell identifications are correct before the snap; learner correctly identifies rotation/no rotation in 7 of 10 reps; learner does not call a specific coverage without post-snap evidence.
-
-## Unit assessment
-
-For four static images and four three-frame replay sequences, identify the shell, write the next question, and state whether the picture stayed, rotated, or remains unresolved. A learner must get at least 6 of 8 correct and use no coverage-certainty language from a single static frame.
+Learner gets 8 of 10 labels correct across two images, including RB and TE. A learner who calls the baseline five wide repeats the orientation task before continuing.
 
 ---
 
-# Unit 1B — Safety rotation and coverage families: Follow the picture, do not freeze it
+# Unit 1 — Defensive layers in a nickel-odd picture
 
-**Recommended time:** 12 minutes
+**Recommended learning time:** 10–12 minutes
 
 ## Learner question
 
-> “If a shell can lie, what exactly am I watching after the snap?”
+> “What does a normal nickel odd defense put in front of my 11-personnel formation?”
 
-## Why this is a separate unit
+## Learning objective
 
-This is the bridge between beginner shell recognition and actual modern coverage reading. It cannot be a warning box at the end of the shell lesson. If learners are taught “one high means X” and “two high means Y,” they will build the exact habit that disguised modern defenses punish.
+Learners can identify a 3-down, 3-linebacker, 5-defensive-back nickel-odd family picture and sort its defenders into immediate run, deep, and perimeter responsibilities without pretending those responsibilities are fixed after the snap.
 
-The discipline is **time-based**: do not identify coverage from a frozen pre-snap frame. Track the coverage picture through the first second of the play.
+## Core concepts
+
+### 1.1 Three down is not five down
+
+The baseline front uses three down linemen:
+
+- left 4i / interior edge;
+- 0-technique nose;
+- right 4i / interior edge.
+
+They may slant, stunt, angle, or change techniques after the snap. The initial lesson is only that the defense has **three down linemen**, not five.
+
+### 1.2 The three linebackers create the second level
+
+The Mike is generally stacked behind the nose. The two other linebacker/overhang players can widen or tighten based on the TE, trips side, motion, and call. Learners should not assume that each is a pure inside linebacker with identical assignments.
+
+Teaching language:
+
+> “The second level is three linebackers/overhangs. Watch which one is inserted into the box, walked out over a receiver, or replaced by a safety after the snap.”
+
+### 1.3 The fifth DB is part of the equation
+
+The nickel/star is not background decoration. Against 11 personnel, this player may:
+
+- align over the slot;
+- tighten toward the box;
+- become an edge/flat defender;
+- add to practical run support;
+- rotate after the snap.
+
+This is why the learner cannot count only down linemen and classic linebackers. The practical box count depends on alignment and concept.
+
+## Worked example
+
+**Prompt:** “Against shotgun 11 personnel, you see 4i–0–4i in front, three second-level players, two corners, a nickel over the slot, and two safeties. What family is this?”
+
+**Expected answer:** “A nickel odd / 3-3-5 family picture: three down linemen, three linebackers or overhangs, and five defensive backs.”
+
+**Follow-up:** “Which player could change the practical run count without being a down lineman?”
+
+**Expected answer:** “The nickel or a safety if aligned close enough to support the run.”
+
+## Common misconceptions
+
+- **“The front is five down because I can see five defenders near the line.”**
+  - Correction: distinguish down linemen from linebackers/nickel players who are near the line.
+- **“The nickel is always just a coverage player.”**
+  - Correction: alignment can make the nickel a practical run-support player.
+- **“Odd front means the offense cannot run inside.”**
+  - Correction: front structure starts the problem; run concept, blocking, motion, and post-snap movement determine the answer.
+
+## Practice task
+
+For five alignments, learners circle:
+
+- the three down linemen;
+- the three second-level linebackers/overhangs;
+- the nickel;
+- both corners;
+- both safeties.
+
+Then they mark which non-lineman is closest to becoming part of the run picture.
+
+## Assessment
+
+Learner correctly identifies the 3-3-5 personnel structure in four of five examples and explains one way the nickel changes the practical count.
+
+---
+
+# Unit 2 — Safety tracking: presentation, rotation, distribution
+
+**Recommended learning time:** 15–18 minutes
+
+## Learner question
+
+> “What should I track before and after the snap when modern defenses disguise the coverage?”
+
+## Learning objective
+
+Learners can track safeties through three moments—pre-snap presentation, early rotation, and route distribution—and can update their plan without relying on a pre-snap coverage label.
+
+## Vocabulary
+
+- **Shell / presentation:** the visible deep-safety structure before the snap.
+- **One-high presentation:** one deep middle safety is visible before the snap.
+- **Two-high presentation:** two deep safeties are visible before the snap.
+- **Rotation:** a defender’s post-snap movement that changes the picture.
+- **Middle open:** the deep middle is initially split by two deep safeties.
+- **Middle closed:** a deep middle safety occupies the middle after rotation.
+- **Distribution:** how safeties, corners, flat defenders, and underneath defenders divide the route threats after the snap.
 
 ## The three-frame method
 
-### Frame A — Presentation (before snap)
+### Frame A — Presentation: before the snap
 
-Record only visible alignment:
+Record only observable facts:
 
 - one-high or two-high;
+- safety depth and width;
 - corner depth and leverage;
-- nickel/safety proximity to the box;
-- formation strength and receiver distribution.
+- nickel depth and proximity to the box;
+- receiver distribution and formation strength.
 
-### Frame B — Rotation (ball snapped to early drop)
+A correct statement is: “Two safeties are deep; the slot-side corner/nickel is off.”
 
-Watch the safeties:
+An incorrect statement is: “This is definitely Cover 2.”
 
+### Frame B — Rotation: snap through the quarterback’s early drop
+
+Track safety movement first:
+
+- Does one safety drive down into the box, curl, hook, or flat area?
 - Does one safety become the deep middle player?
-- Does one safety drive into the box, hook, curl, or flat area?
 - Do both safeties retain split/deep leverage?
-- Does a late defender replace the safety or create a new split-field picture?
+- Does a late defender replace the safety and preserve a split-field picture?
 
-The learner describes **middle open** or **middle closed** before trying to label a coverage.
+At this stage, the learner should say whether the middle is **open**, **closed**, **opening**, **closing**, or **still unresolved**.
 
-### Frame C — Distribution (routes begin to threaten)
+### Frame C — Distribution: routes begin to threaten coverage
 
-Watch the perimeter and underneath defenders:
+Now track the perimeter and underneath response:
 
-- Does the corner squat in the flat or sink under a vertical?
-- Does the corner carry the outside vertical route, pass it, or bail?
-- Who owns the flat?
-- Do defenders match receivers as they release, or settle into zone landmarks?
+- Does the corner squat in the flat, sink under a vertical, bail, carry, or pass off?
+- Who handles the flat?
+- Do safeties split vertical threats or drive to one?
+- Do defenders match receivers based on releases or settle into landmarks?
 
-This is where Cover 2-like and quarters/Cover 4-like behavior becomes distinguishable. A two-high snapshot alone cannot do it.
+Coverage family is more identifiable at this moment than at Frame A. Even then, learners are allowed to use **likely** or **unresolved** rather than invent certainty.
 
-## Essential contrast cases
+## Essential disguise cases
 
-### Case A — Two-high to middle-closed / Cover 3-like rotation
+### Case A — Two-high presentation rotating to middle closed / Cover 3-like behavior
 
-The defense presents two deep safeties. At the snap, one drives down; the other occupies the deep middle. The offense should update its model: the field is no longer simply a two-high picture.
+A defense presents two deep safeties. After the snap, one safety drives down while the other becomes the deep middle player.
 
-**Learner language:**
+**Learner statement:**
 
-> “Two-high presentation. The weak safety spun down and the middle closed. I need to re-check the underneath and outside picture rather than throw the answer I prepared for split safeties.”
+> “The defense started two high. The weak safety spun down and the middle closed. I have to abandon any plan that assumed split-safety depth and re-check the underneath and outside distribution.”
 
-### Case B — Two-high Cover 2-like versus quarters/Cover 4-like behavior
+The lesson is not “two-high becomes Cover 3 every time.” The lesson is that the initial shell can be designed to invite an answer that the rotation removes.
 
-Both begin with two deep safeties. The crucial distinction is not the initial shell. It is what happens when receivers threaten vertically and into the flats.
+### Case B — Two-high: Cover 2-like versus quarters/Cover 4-like behavior
 
-- In a Cover 2-like behavior, the corner may be more involved in the flat/short outside space while the safety handles deep half responsibility.
-- In a quarters/Cover 4-like behavior, corners and safeties can distribute vertical threats differently and may match based on releases.
+Both families can begin with two safeties high. The shell alone cannot reliably distinguish them.
 
-MFC should avoid teaching this as an absolute rule because game implementations, match rules, route distribution, and specific play calls can alter behavior. The learner’s first job is to observe the response, then connect that response to the concept family.
+The learner watches:
+
+- whether the corner is involved in flat/short outside responsibility or carries/sinks with vertical threats;
+- how safeties distribute vertical releases;
+- whether the defense matches receiver releases rather than simply dropping to static landmarks.
+
+MFC must avoid a false universal rule such as “corner squats = Cover 2” or “corner carries = quarters.” Game implementation, route distribution, match rules, and call-specific adjustments can alter the response. Teach learners to describe the behavior they observe first.
 
 ### Case C — One-high presentation that changes after snap
 
-A middle-closed presentation can rotate, exchange responsibilities, or become a split-field look after the snap. The learner does not need a memorized label for every disguise. They need to keep the first answer conditional and watch the field change.
+A one-high picture may exchange responsibilities, spin a safety down, or produce a split-field look after the snap. The learner remains disciplined:
 
-## Madden Practice Mode lab
+> “One-high presentation. I will see whether the middle safety holds, drives down, or is replaced before I treat the initial picture as final.”
 
-1. Use the stable 11-personnel shotgun formation.
-2. Call a concept with an outside vertical, a flat route, and an inside route so the defensive distribution becomes visible.
-3. Run 10 reps against defenses that present two-high and 10 against defenses that present one-high.
-4. Save or pause at Frame A, B, and C for each rep.
-5. Complete this table in a notebook:
+## Practice lab
 
-| Rep | Frame A: presentation | Frame B: rotation | Frame C: corner/flat distribution | Conclusion |
-| --- | --- | --- | --- | --- |
-| 1 | Two high, off corner | Weak safety down; middle closed | Corner sinks; flat defender widens | Middle-closed rotation; first plan changed |
+**Setup:** Use the canonical shotgun 11-personnel offense. Call a concept with an outside vertical, a flat route, and an inside route so multiple defensive responsibilities become visible.
 
-6. Do not score the conclusion as a coverage-name quiz. Score whether the learner observed the sequence accurately.
+For each rep, capture three moments:
 
-## Unit assessment
+| Moment | What learner records |
+| --- | --- |
+| Frame A: pre-snap | shell, corner depth, nickel depth |
+| Frame B: early post-snap | safety movement; middle open/closed state |
+| Frame C: route conflict | corner/flat/deep distribution |
+
+**Lab instruction:**
+
+1. Complete 10 reps against two-high presentations and 10 reps against one-high presentations.
+2. Do not begin by guessing a coverage name.
+3. For every rep, write one sentence using this structure:
+
+> “The defense presented **[shell]**. It **[held/spun/shifted]** into **[middle state / observable movement]**. The corner/flat response was **[observation]**. My original first answer **[remained/changed]** because **[evidence]**.”
+
+4. After the log is complete, label any coverage-family conclusion as **confirmed**, **likely**, or **unresolved**.
+
+## Assessment
 
 Show four three-frame sequences:
 
-- two-high staying split;
-- two-high spinning to middle closed;
-- two-high with Cover 2-like perimeter behavior;
+- two-high that stays split;
+- two-high that spins to middle closed;
+- two-high with Cover 2-like outside/flat distribution;
 - two-high with quarters/Cover 4-like vertical distribution.
 
-For each sequence, learner must state:
+For each sequence, learners identify presentation, rotation, distribution, and what must change in the plan. Exact coverage-name accuracy is secondary to accurate observation.
 
-1. the pre-snap presentation;
-2. the rotation;
-3. the observable corner/flat/deep distribution;
-4. which part of a pre-snap plan should change.
-
-**Passing standard:** 3 of 4 complete sequences accurately described. No requirement to name the exact coverage if the observed behavior is accurately stated.
-
+**Passing standard:** 3 of 4 sequences completely described; no coverage name asserted from Frame A alone.
 
 ---
 
-# Unit 2 — Box count: Who can affect the run now?
+# Unit 3 — Box count: Count players relative to the run
 
-**Recommended time:** 9 minutes
+**Recommended learning time:** 12–15 minutes
 
 ## Learner question
 
-> “How do I count the box without treating the number as magic?”
+> “Who can affect this specific run now, and how does nickel odd complicate that count?”
 
-## Vocabulary
+## Learning objective
 
-- **Box:** the near-line area containing defenders who can immediately affect a run.
-- **Box count:** the number of relevant near-line defenders.
-- **Numbers advantage:** a favorable relationship between the offense’s available blockers/runner and the defenders involved in the run.
-- **Front:** the defensive alignment near the line of scrimmage.
+Learners can identify the practical run count in a nickel-odd family look and explain why the count must be compared with the specific run concept, blocking surface, formation strength, and post-snap movement.
 
-## Core teaching rule
+## Core rule
 
-A box count is not “count every red token on the screen.” It is:
-
-> Count the defenders who can reasonably affect the specific run now, then compare them with the blockers, runner, formation, and concept you actually called.
-
-The same seven-man count may be favorable for one run concept and poor for another. A TE can change the edge. Motion can change the count. A defender can be technically near the box but removed from the play by alignment or assignment.
+> A box count is not a universal number. It is a relationship between defenders who can affect a particular run and the offensive players or geometry assigned to handle them.
 
 ## Teaching sequence
 
-### 1. Establish the line of scrimmage
+### 3.1 Start with the three down linemen
 
-The learner identifies the line. Defenders above it are not automatically in the box; defenders near it are not automatically relevant to every run.
+The 4i–0–4i structure puts three defenders on or near the interior front. That tells the learner where the immediate interior stress begins.
 
-### 2. Count obvious front players
+### 3.2 Add immediate second-level defenders
 
-Start with defenders aligned close to the offensive line: defensive ends, tackles, nose tackle, and immediate linebackers.
+The Mike and either overhang may be practically involved depending on alignment, run direction, and motion. The learner should describe, not assume:
 
-### 3. Add relevant near-line support
+> “The strong-side overhang is tight enough to affect an outside run toward the TE.”
 
-A nickel, safety, or corner can become part of the practical count if their pre-snap alignment puts them in immediate run support range.
+### 3.3 Add the nickel or safety only when alignment makes them relevant
 
-### 4. Compare against the actual call
+A nickel aligned over the slot at normal coverage depth may not be an immediate interior run defender. A nickel tightened near the core or an inserted safety can change the practical count.
 
-Ask four questions:
+### 3.4 Compare the count to the call
 
-1. Is the run designed inside or outside?
-2. Where is the TE / strength?
-3. Which blockers are available for the front-side count?
-4. Is there an unblocked defender the runner must make wrong?
+Every count must be followed by:
 
-The learner does not need to solve every blocking assignment. They need to avoid the crude mistake: “six looks light, seven looks heavy” with no reference to the call.
+- Is the run inside zone, outside zone, power, counter, or another concept?
+- Is it directed toward or away from the TE?
+- What edge does the TE create?
+- Which defender is likely left for the runner to make wrong?
+- Which defender can become free if the safety/nickel inserts late?
 
-## Worked example
+## Worked examples
 
-Stable shotgun 11 personnel, TE strong right. The defense shows five down linemen, one linebacker, and one nickel defender near the line.
+### Example 1 — Inside run against 3-3-5
 
-**Observation:** seven near-line defenders.
+**Observation:** Three down linemen, Mike stacked, strong overhang tight, nickel outside over slot, two safeties high.
 
-**Good plan:**
+**Good statement:**
 
-> “Seven near the line. I will compare the count to my run toward the TE side and keep the quick outside answer ready if the edge is crowded.”
+> “The initial practical count is the three down plus the Mike and tight strong overhang. The nickel is wider, so I will not automatically count him as immediate interior support. For an inside run, I will watch whether the overhang or safety inserts after the snap.”
 
-**Bad plan:**
+### Example 2 — Outside run toward TE/trips side
 
-> “Seven means pass.”
+**Observation:** Same front, but the nickel tightens outside the TE/slot surface.
 
-Why it fails: the run’s direction, blocking structure, defensive alignment, and user control all matter. The count starts the decision; it does not complete it.
+**Good statement:**
 
-## Madden Practice Mode lab
+> “The nickel now changes the edge picture. The run may still work, but the outside count and force player are different. I need to know whether the TE and perimeter blockers can create the edge or whether the safe answer should be the quick pass.”
 
-1. Use the same 11-personnel shotgun formation.
-2. Pick one inside run and one outside run from the same formation.
-3. Present at least two defensive fronts.
-4. Before the snap, write or say: “I count **N** near the line. This run wants to go **inside/outside**. My concern is **[edge / interior / unblocked second-level defender]**.”
-5. Run both plays against each front.
-6. Review the replay and identify the defender who first changed the run.
+## Misconceptions
 
-**Success standard:** Learner can explain why the same defensive count created different concerns for the inside and outside play.
+- “Seven in the box always means pass.”
+- “Six in the box always means run.”
+- “The nickel never counts because he is a DB.”
+- “A player counts only if he is directly on the line.”
 
-## Unit assessment
+All four are false because run count is concept-specific and because defenders can insert after the snap.
 
-Give the learner three snapshots and three proposed run concepts. They must:
+## Practice lab
 
-- count relevant defenders;
-- identify the run’s likely stress point;
-- state one reason the count alone is not enough.
+1. Call one inside run and one outside run from the canonical formation.
+2. Run both against three nickel-odd alignment variants: wide nickel, tightened nickel, and inserted safety.
+3. Before each snap, say:
+
+> “For **[run]**, I count **[N]** immediate defenders. The player who changes the edge/interior is **[defender]**. I will watch **[insert/fit]** after the snap.”
+
+4. Review the first defender to change the run.
+
+## Assessment
+
+Give learners three fronts and three run concepts. They must state the count, name the run’s stress point, and identify one defender whose post-snap action could invalidate the initial count.
 
 ---
 
-# Unit 3 — Leverage: What is the nearest defender trying to remove?
+# Unit 4 — Perimeter leverage: Read the defender’s starting priority
 
-**Recommended time:** 9 minutes
+**Recommended learning time:** 12–15 minutes
 
 ## Learner question
 
-> “What does corner alignment tell me without making me throw into a trap?”
+> “What is the corner or nickel trying to take away, and what does that make worth checking?”
+
+## Learning objective
+
+Learners can describe off/press and inside/outside leverage, identify the space that alignment appears to concede, and preserve uncertainty about the help defender and post-snap reaction.
 
 ## Vocabulary
 
-- **Off coverage:** defender begins with cushion between defender and receiver.
-- **Press coverage:** defender aligns close to the receiver, challenging the release.
-- **Inside leverage:** defender shades toward the receiver’s inside.
-- **Outside leverage:** defender shades toward the receiver’s outside.
-- **Cushion:** the usable space created by an off defender’s depth before the route develops.
-
-## Core teaching rule
-
-Leverage describes a defender’s starting priority. It is not a promise that a route is open.
-
-The learner should ask:
-
-> “What does this defender appear to want to take away first, and what route family would test the space he is conceding?”
-
-The learner should not ask:
-
-> “What route beats this alignment every time?”
+- **Off:** defender begins with cushion.
+- **Press:** defender challenges at or near the line.
+- **Inside leverage:** defender aligns to protect inside access first.
+- **Outside leverage:** defender aligns to protect outside access first.
+- **Cushion:** the pre-snap space between defender and receiver.
+- **Force player:** the defender responsible for setting the edge or forcing the ball back inside; often relevant to outside runs and quick perimeter throws.
 
 ## Teaching sequence
 
-### 1. Off versus press
+### 4.1 Off versus press changes timing
 
-**Off:** The defender starts with space. The immediate possibility is a quick completion or a route that uses cushion. The risk is that underneath defenders, user defenders, or a fast break can close the window.
+Off coverage can present quick access and cushion. But a quick route is not automatically open: a flat defender, safety rotation, user defender, or fast break can remove it.
 
-**Press:** The defender starts at the line. The immediate problem is release and timing. The risk is assuming a receiver will win simply because the play art looks good.
+Press coverage changes release and timing. A route may win later, but the learner must first ask whether the receiver can get free on schedule and whether the quarterback has time.
 
-### 2. Inside versus outside leverage
+### 4.2 Inside versus outside leverage changes the first route area to inspect
 
-**Inside leverage:** The defender begins positioned to protect inside access. The potential outside space is a clue, not an automatic throw.
+Inside leverage may invite an outside-breaking check. Outside leverage may invite an inside-breaking check. These are inspection priorities—not “throw rules.”
 
-**Outside leverage:** The defender begins positioned to protect outside access. The potential inside access is a clue, not an automatic throw.
+### 4.3 Leverage must connect to safety tracking
 
-### 3. Combine leverage with shell and box
+A corner’s leverage makes no sense in isolation. Ask:
 
-The learner has now completed three visible parts of the picture:
+- Is a safety over the top?
+- Is the flat defender widening?
+- Did the corner squat or bail after the snap?
+- Is the nickel replacing the corner, or is the corner carrying the route?
 
-- shell tells where deep help starts;
-- box count tells how many defenders can affect the run;
-- leverage tells which immediate route space may be stressed.
-
-None is sufficient alone. They are deliberately taught separately so learners can combine them without confusing them.
+This is how the curriculum prevents the learner from treating “off corner” as a guaranteed quick completion.
 
 ## Worked example
 
-Two-high shell. Seven near-line defenders. Trips-side corner is off the Z receiver.
+**Pre-snap:** Two-high presentation; trips-side corner plays six yards off and outside; nickel is near the slot; run count is uncertain because the overhang is tight.
 
 **Good plan:**
 
-> “Two high. Seven near the line. Off corner to trips. I will check the run count, then inspect the quick outside/underneath answer if the safety rotation and flat defender allow it.”
+> “The outside corner gives cushion. I will check whether the flat/overhang player expands and whether the safety rotation preserves help over the top. If the quick outside throw is squeezed, I return to the run or inside safe answer rather than forcing the ball to the cushion.”
 
-**Bad plan:**
+## Practice lab
 
-> “The corner is off, so the quick route is open.”
+Use the same formation and pair a quick outside concept with an inside run or interior route. Vary only corner/nickel alignment where the game allows.
 
-Why it fails: cushion is only one defender’s starting alignment. The route can still be bracketed, squatted on, covered by a flat defender, or removed by pressure and timing.
+For every rep, record:
 
-## Madden Practice Mode lab
+- alignment clue;
+- first route area to inspect;
+- help defender to track;
+- actual post-snap outcome;
+- whether the first answer or safe answer was correct.
 
-1. Use the stable formation and call a concept with a quick outside option plus a run or interior answer.
-2. Change only the corner alignment when possible: off, press, inside, outside.
-3. Before each snap, describe the corner in two words: “off / inside,” “press / outside,” and so on.
-4. Run the play and use replay to identify whether the first defender held, drove, or was replaced by another defender.
-5. Keep a log of **clue → first check → what actually happened**.
+## Assessment
 
-**Success standard:** Learner can explain why cushion may suggest a check without guaranteeing a throw.
+For four perimeter pictures, learner must state:
 
-## Unit assessment
-
-For each of four perimeter alignments, learners must state:
-
-- what they see;
-- which route area it may invite;
-- one reason not to force it.
+1. what the defender is visibly doing;
+2. which route area may be worth inspecting;
+3. which help defender or post-snap behavior could remove that option.
 
 ---
 
-# Unit 4 — The Pre-Snap Scan: Build a plan that can survive the snap
+# Unit 5 — The pre-snap plan: build an answer that can change
 
-**Recommended time:** 10 minutes
+**Recommended learning time:** 15–18 minutes
 
 ## Learner question
 
-> “How do I use all this in the few seconds before the snap?”
+> “How do I use safety tracking, box count, and leverage in the few seconds before the snap?”
+
+## Learning objective
+
+Learners can execute a four-part pre-snap plan and revise it from post-snap evidence.
 
 ## The routine
 
-The order is fixed:
+1. **Orientation:** formation, strength, eligible distribution.
+2. **Presentation:** shell, defensive layer alignment, box/perimeter clues.
+3. **First answer:** the run, concept, or route conflict that is worth checking first.
+4. **Safe answer:** the controlled alternative if rotation, leverage, flat response, pressure, or user defender removes the first answer.
 
-1. **Shell** — one-high or two-high?
-2. **Box** — who can affect the run now?
-3. **Leverage** — what is the nearest defender conceding or protecting?
-4. **Plan** — what is the first answer, what is the safe answer, and what post-snap evidence changes the plan?
+The old shorthand can remain useful only after the foundation:
 
-The order matters. It stops the learner from seeing one open-looking receiver and ignoring the deep safety, front, or support defender that makes the obvious throw dangerous.
+> **Shell → box → leverage → plan.**
 
-## The plan sentence
-
-Use this exact template until it becomes automatic:
-
-> “I see **[shell]**. There are **[count / front clue]** near the line. **[Relevant defender]** is **[off/press, inside/outside]**. I will check **[first answer]**. If **[safety rotation / flat defender / user / pressure]** removes it, I will use **[safe answer]**.”
+But it is now understood as a compact version of a deeper process, not a four-word trick.
 
 ## Full worked example
 
-**Situation:** First-and-10. Stable 11-personnel shotgun. Two safeties deep. Seven defenders near the line. Trips-side corner is six yards off. The called play includes an inside zone possibility and a quick outside route.
+**Situation:** First-and-10. Canonical shotgun 11 personnel. Defense presents nickel odd with two safeties high. The nickel is tightened toward the TE/trips side. The outside corner to trips is off and outside.
 
-**Scan:**
+**Pre-snap plan:**
 
-1. Shell: two high.
-2. Box: seven defenders near the line; compare to the inside-zone blocking picture and the TE-side edge.
-3. Leverage: off corner at trips suggests cushion for a quick answer.
-4. Plan: first check is whether the box/run picture remains favorable; secondary check is whether the quick outside space remains after the snap. If the safety rotates down or the flat defender jumps outside, use the safe answer rather than forcing the quick throw.
+> “Shotgun 11, TE strong right. Nickel odd family, two-high presentation. The tight nickel changes the outside run count toward strength. The trips corner gives cushion but has potential safety/flat help. First I will inspect whether the safety rotates down and whether the flat defender widens. If the quick outside answer is squeezed or the run edge is overfilled, I use the inside safe answer rather than forcing either initial idea.”
 
-**Why this is better than “run/pass”:**
+**Post-snap outcome A:** Weak safety spins down, middle closes, flat defender widens.
 
-The player has an ordered response to evidence. They know why the initial plan exists and what evidence invalidates it.
+- Learner conclusion: the picture changed; outside quick answer may be squeezed; reassess inside/other progression.
 
-## Common failure modes
+**Post-snap outcome B:** Safeties remain split, nickel expands with the slot, corner maintains cushion.
 
-### Failure 1: Coverage-name addiction
+- Learner conclusion: the pre-snap quick/perimeter clue remains more viable, but still verify throwing lane and timing.
 
-The learner declares a coverage before the ball moves.
+## Failure modes and repairs
 
-**Repair:** Replace coverage claims with visible facts. “Two high, off corner” is useful. “Cover 2” is premature unless post-snap behavior confirms it.
+### Coverage-name addiction
 
-### Failure 2: Box-count superstition
+**Failure:** learner says Cover 2, Cover 3, or quarters before post-snap evidence.
 
-The learner sees a number and makes the same call every time.
+**Repair:** require the three-frame statement: presentation → rotation → distribution.
 
-**Repair:** Add the concept and blockers. “Seven against what run?” is the question.
+### Count superstition
 
-### Failure 3: First-read forcing
+**Failure:** learner treats a number as an automatic run/pass decision.
 
-The learner decides where to throw before the snap and ignores all change.
+**Repair:** require the phrase “against **which concept** and **which blocking surface**?”
 
-**Repair:** Every plan must include a safe answer and an explicit evidence trigger for abandoning the first answer.
+### Cushion forcing
 
-### Failure 4: Too many thoughts
+**Failure:** learner sees off coverage and throws instantly.
 
-The learner tries to identify front, coverage, match rules, blitz, route tree, user defender, and hot route all at once.
+**Repair:** require a named help defender and safe answer.
 
-**Repair:** Run the four-question scan. More advanced material waits until MFC 102–104.
+### Overload
 
-## Madden Practice Mode lab
+**Failure:** learner tries to identify every stunt, pressure, match rule, and coverage family at once.
 
-1. Pick a single 11-personnel shotgun formation.
-2. Add one run, one quick pass, and one longer-developing pass to your audible menu if the game mode allows it.
-3. Run 12 reps: four against a two-high picture, four against one-high, four against a disguised/rotating look.
-4. Before every snap, state the whole plan sentence.
-5. After every snap, classify the result:
+**Repair:** return to the ordered routine. MFC 102–104 will add run-fit, route-concept, and coverage-family depth.
+
+## Practice lab
+
+1. Use one 11-personnel shotgun formation.
+2. Prepare a small menu: an inside run, an outside run, a quick perimeter throw, and a concept with an interior safe answer.
+3. Complete 12 reps across one-high, two-high, and rotating presentations.
+4. Before each snap, speak the full plan sentence.
+5. After each snap, label the result:
    - first answer confirmed;
    - safe answer required;
-   - mistake in the scan;
-   - execution mistake despite a correct scan.
-6. Do not change the formation until you can explain all 12 outcomes.
-
-**Success standard:** At least 9 of 12 reps include a complete plan sentence before the snap and an accurate explanation of what changed after it.
+   - scan error;
+   - execution error despite a sound scan.
+6. Review all scan errors before moving to new formations.
 
 ## Capstone assessment
 
-Present five unfamiliar pre-snap looks. For each, learner must produce the plan sentence in 20 seconds or less.
+The learner receives five unfamiliar three-frame looks. For each, the learner has 20 seconds to give:
 
-Rubric:
+- formation and strength;
+- pre-snap shell/presentation;
+- practical box and perimeter clue;
+- first answer;
+- evidence trigger;
+- safe answer.
 
-- **2 points:** shell correctly named.
-- **2 points:** box count or relevant front clue stated.
-- **2 points:** relevant leverage described.
-- **2 points:** first answer is plausible and conditional.
-- **2 points:** safe answer and evidence trigger are explicit.
+### Rubric
 
-**Passing score:** 38/50 overall, with no unit scored below 6/10.
+| Criterion | Points per rep |
+| --- | ---: |
+| Correctly identifies formation/personnel and strength | 2 |
+| States only what the pre-snap shell supports | 2 |
+| Names relevant box/front clue | 2 |
+| Names leverage/help clue | 2 |
+| Chooses conditional first answer | 2 |
+| States explicit evidence trigger and safe answer | 2 |
 
----
-
-# Instructional progression map
-
-| Unit | New information | What stays stable | Learner action | Evidence of learning |
-| --- | --- | --- | --- | --- |
-| 0. Orientation | pre-snap facts vs inferences | base offense | identify personnel and strength | describes 11 personnel correctly |
-| 1. Shells | safety depth | base offense, front | name one-high/two-high | does not overcall coverage |
-| 1B. Rotation | shell changes across time | base offense, shell | track safety + corner + flat behavior | describes the sequence without premature label |
-| 2. Box count | near-line defenders | base offense, shell | count and compare to run | explains why count alone is insufficient |
-| 3. Leverage | perimeter alignment | base offense, shell/box | name cushion/press and leverage | identifies a clue plus its risk |
-| 4. Scan | ordered decision routine | all prior vocabulary | make first/safe plan | revises plan from post-snap evidence |
+**Passing standard:** 48/60 overall, with no rep below 7/12. A learner loses the shell criterion if they declare an exact coverage from Frame A alone.
 
 ---
 
-# Content requirements before presentation work resumes
+# 3. Curriculum production requirements
 
-No page, diagram, or interactive component should be designed until the following are approved or answered:
+This manuscript comes before any presentation layer. Future lesson pages, diagrams, animation, quizzes, or site navigation must derive from approved curriculum elements here.
 
-1. Does the progression above match the way Ric would teach a new Madden player?
-2. Does Unit 1B capture the modern disguise problem accurately enough: two-high spinning to middle closed/Cover 3-like behavior; Cover 2-like versus quarters/Cover 4-like behavior requiring perimeter distribution evidence; and one-high presentations that change after snap?
-3. Is 11-personnel shotgun with TE strong right the right canonical baseline for the first course?
-4. Do the labs map cleanly to Madden NFL 27 Practice Mode and actual control surfaces?
-5. Which vocabulary needs a simpler MFC-specific phrase before we introduce formal football terminology?
-6. What examples from Ric’s Madden franchise culture would make the drills feel like real game decisions rather than coaching-clinic abstractions?
+## Required instructional artifacts per unit
+
+Before a unit becomes a public lesson, it needs:
+
+1. **Concept manuscript:** approved explanatory content, worked examples, misconceptions, lab, and assessment.
+2. **PlaySpec / diagram brief:** exact offense, defense, labels, technique alignments, and which variable changes across frames.
+3. **Madden verification card:** game year, platform, mode, playbook/formation, defensive call/setup, patch date, and reproducible observations.
+4. **Evidence register:** football-concept source and Madden-specific source/observation kept separate.
+5. **Assessment key:** accepted answers, partial answers, common wrong answers, and remediation route.
+
+## Required diagram rules
+
+- Default offense is true shotgun 11 personnel; RB remains beside the QB; TE is attached strong right; X, F, and Z remain distinct.
+- Default defense is nickel odd / 3-3-5 family: 4i–0–4i, three second-level linebackers/overhangs, two corners, nickel/star, and two safeties.
+- Diagrams must state whether they show **pre-snap presentation**, **early rotation**, or **route distribution**.
+- Do not change formation and coverage variable in the same introductory diagram unless the lesson explicitly teaches both.
+- Every safety-tracking diagram must show at least the relevant safety, corner, and flat/overhang movements. A pair of static safety dots is not a safety-read lesson.
+
+## Questions Ric should review before any design pass
+
+1. Is this foundation sequence the right opening curriculum for the intended Madden learner?
+2. Is nickel odd / 3-3-5 the right canonical defensive family to teach against the fixed shotgun 11 set, or should MFC introduce an even front first for lower cognitive load?
+3. Does the safety-tracking unit capture the modern pre-snap/post-snap reality without prematurely turning beginners into coverage-name guessers?
+4. Which Madden-specific behaviors must be verified in Madden 27 before the labs are published?
+5. Are there franchise/community examples that should shape the worked scenarios and capstone decisions?
 
 ---
 
-# Evidence and version notes
+# 4. Evidence note
 
-- Football-concept explanations require coaching/football-analysis sources before public publication. This draft defines the teaching sequence but does not claim a citation is complete.
-- Madden-specific controls, Practice Mode setup, audibles, protection tools, or game behavior require version-labeled official EA documentation or reproducible MFC observation before publication.
-- Current official Madden 27 reference starting points: EA *Gameplay Deep Dive* and *Controls Hub*. See `docs/CITATIONS.md` and `docs/product-and-curriculum-v0.md`.
+This is a curriculum manuscript, not an authoritative Madden 27 mechanic guide. Football concepts require coaching/film-study sources before public publication. Madden controls, formations, playbook names, practice setup, coverage behavior, and version-specific observations require official EA documentation or reproducible MFC captures labeled with platform, version, and patch date.
