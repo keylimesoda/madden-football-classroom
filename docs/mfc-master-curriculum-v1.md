@@ -1,12 +1,15 @@
 # Football Through Madden — Master Curriculum
 
-## Curriculum map
+## Authoritative curriculum map
+
+This five-chapter hierarchy is authoritative. Every detailed topic belongs beneath one of these chapters; no parallel part-based curriculum should compete with it.
+
 
 Madden is the practice field. Football is the logic.
 
 The curriculum starts with the people and formations on the field. It then teaches the run game, the pass game, advanced constraints, and finally how to build a connected offense that can force and answer defensive adjustments.
 
-Only **Chapter 1(a)(i)** has substantive manuscript prose today: offensive personnel. Everything else below is a structured writing target, not a finished lesson.
+Only **Chapter 1(a)(i)** has substantive manuscript prose today: offensive personnel. Everything else below is a structured writing target, not a finished lesson. The detailed bullets in the remaining sections are scope commitments, not finished instruction.
 
 ---
 
