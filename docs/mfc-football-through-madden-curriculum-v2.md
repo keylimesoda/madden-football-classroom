@@ -272,6 +272,47 @@ The matrix must not become a “beat this coverage” cheat sheet. Every cell ne
 
 ---
 
+# Part VI — Advanced offense
+
+## 11. Constraint football: make the defense wrong twice
+
+**Core question:** Once the defense has learned to answer the base run and pass game, how does the offense use conflict, timing, and formation movement to punish that answer?
+
+This section follows the core run and pass curriculum. It assumes the learner already understands personnel, fronts, run fits, protection, route concepts, and coverage structure.
+
+### 11.1 RPOs
+
+- The run/pass conflict defender.
+- Pre-snap box and leverage clues versus the actual post-snap read.
+- Why an RPO is not simply a handoff with a screen attached.
+- Run, throw, and abort decisions; where Madden's implementation differs by play, version, or animation.
+
+### 11.2 Option football
+
+- Read option, speed option, triple-option concepts where Madden supports them.
+- Dive, quarterback, and pitch responsibilities.
+- Force/contain defender and the defender deliberately left unblocked for the read.
+- When the defense scrapes, exchanges, spills, or keeps the quarterback contained.
+
+### 11.3 Play action
+
+- How a credible run picture changes second-level and safety behavior.
+- Under-center versus shotgun play action.
+- Protection and route timing: play action can buy space, but it can also delay the quarterback and expose pressure.
+- How to distinguish useful play action from calling a long-developing pass into an obvious pressure look.
+
+### 11.4 Motion and shifts
+
+- Shift: changing the formation before the snap.
+- Motion: moving a player through or across the formation before the snap.
+- What movement reveals about man/zone indicators, strength, force players, coverage checks, and run-fit adjustments.
+- How motion changes formation strength, surface count, protection, and route release.
+- Madden-specific motion controls and limitations, version verified before publishing.
+
+**Production rule:** Advanced offense is not a bag of tricks. Every lesson must identify the base concept being constrained, the defender placed in conflict, the defensive answer, and the counter to that counter.
+
+---
+
 # Writing and production order
 
 1. Ric’s full offensive-formation manuscript.
@@ -283,7 +324,8 @@ The matrix must not become a “beat this coverage” cheat sheet. Every cell ne
 7. Joint route-concept map using in-game categorization.
 8. Pass-rush, coverage, and coverage-adjustment curriculum.
 9. Matchup matrix.
-10. Only then derive the public lessons, diagrams, labs, and quizzes.
+10. Advanced offense: RPO, option, play action, motion, and shifts.
+11. Only then derive the public lessons, diagrams, labs, and quizzes.
 
 # Open decisions
 
